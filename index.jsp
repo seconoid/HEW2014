@@ -9,23 +9,29 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Style-Type" content="text/css" />
 	<meta http-equiv="Content-Style-Type" content="text/javascript" />
-	<script type="text/javascript" src="./js/jquery-2.1.3.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="./css/common.css" />
-	<script type="text/javascript" src="./js/common.js"></script>
+	<script src="./js/jquery-2.1.3.min.js"></script>
+	<script src="./js/jquery.openwin.js"></script>
+	<script src="./js/jquery.color.js"></script>
+	<script src="./js/common.js"></script>
 	<title>FunRoom - 「一人暮らし」を「楽しく」。</title>
 </head>
 <body>
 	<div id="wrapper">
 		<div id="header">
+			<p id="men" class="colorChange">Men</p>
+			<p id="women" class="colorChange">Women</p>
+			<p id="default" class="colorChange">Default</p>
+			<p id="indicator" class="indicator">スクロール値 | <span id="scrollValue">0</span></p>
 		</div>
 		<div id="contents">
 			<div id="stageScrol">
 				<div id="outside" class="content">
-					<img src="#" alt="画像" width="300" height="200" />	
 					<a href="#kitchen" class="scrollNext">キッチンへ</a>
 				</div>
 				<div id="kitchen" class="content">
-					<a href="#bathroom" class="scrollNext">風呂場へ</a>
+					<a href="#bathroom" class="scrollNext">風呂場へ</a><br /><br />
+					<a href="./questionnaire.jsp" class="openwin">(^-^)v</a>
 				</div>
 				<div id="bathroom" class="content">
 					<a href="#living" class="scrollNext">リビングへ</a>
@@ -36,7 +42,7 @@
 				<div id="entrance" class="content">
 					<a href="#bye"  class="scrollNext">外へ</a>
 				</div>
-				<div id="bye">
+				<div id="bye" class="content">
 					<a href="#header" class="scrollTop">ありがとう！</a>
 				</div>
 			</div>

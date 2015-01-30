@@ -7,22 +7,63 @@ body, ul, li, h1, h2, h3, p, img{
 	font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
 }
 
+body {
+	height: 4600px;
+	background:#f3f2f7;
+}
+
+a {
+	font-size: 32px;
+}
+
+.indicator {
+     margin: 0;
+     position: fixed;
+     right: 10px;
+     top: 10px;
+}
+.indicator {
+     background: rgba(255, 255, 255, 0.8);
+}
+
+.colorChange {
+	position: fixed;
+	top: 10px;
+}
+
+#men {
+	right: 170px;
+}
+
+#women {
+	right: 230px;
+}
+
+#default {
+	right: 310px;
+}
+
 #outside {
-	height: 300px;
+	height: 800px;
 }
 
 #kitchen {
-	height: 300px;
+	height: 800px;
 }
 
 #bathroom {
-	height: 300px;
+	height: 800px;
 }
 
 #living {
-	height: 300px;
+	height: 800px;
 }
 
 #entrance {
+	height: 800px;
+}
+
+#bye {
 	height: 300px;
 }
+

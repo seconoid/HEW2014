@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	color: #13141d;
+	height: 500px;
+	letter-spacing: 0.14em;
+}
+
+h1 {
+	font-size: 1.5em;
+	padding: 10px;
+}
+
+h2 {
+	font-size: 1.2em;
+	padding: 5px 10px;
+}
+
+p {
+	padding: 10px;
+}
