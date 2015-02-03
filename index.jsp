@@ -24,28 +24,26 @@
 			<p id="default" class="colorChange">Default</p>
 			<p id="indicator" class="indicator">スクロール値 | <span id="scrollValue">0</span></p>
 		</div>
-		<div id="contents">
-			<div id="stageScrol">
-				<div id="outside" class="content">
-					<a href="#kitchen" class="scrollNext">キッチンへ</a>
-				</div>
-				<div id="kitchen" class="content">
-					<a href="#bathroom" class="scrollNext">風呂場へ</a><br /><br />
-					<a href="./questionnaire.jsp" class="openwin">(^-^)v</a>
-				</div>
-				<div id="bathroom" class="content">
-					<a href="#living" class="scrollNext">リビングへ</a>
-				</div>
-				<div id="living" class="content">
-					<a href="#entrance" class="scrollNext">玄関へ</a>
-				</div>
-				<div id="entrance" class="content">
-					<a href="#bye"  class="scrollNext">外へ</a>
-				</div>
-				<div id="bye" class="content">
-					<a href="#header" class="scrollTop">ありがとう！</a>
-				</div>
-			</div>
+		<ul id="contents">
+			<li id="outside" class="content">
+				<a href="#kitchen" class="scrollNext">キッチンへ</a>
+			</li>
+			<li id="kitchen" class="content">
+				<a href="#bathroom" class="scrollNext">風呂場へ</a><br /><br />
+				<a href="./questionnaire.jsp" class="openwin">(^-^)v</a>
+			</li>
+			<li id="bathroom" class="content">
+				<a href="#living" class="scrollNext">リビングへ</a>
+			</li>
+			<li id="living" class="content">
+				<a href="#entrance" class="scrollNext">玄関へ</a>
+			</li>
+			<li id="entrance" class="content">
+				<a href="#bye"  class="scrollNext">外へ</a>
+			</li>
+			<li id="bye" class="content">
+				<a href="#header" class="scrollTop">ありがとう！</a>
+			</li>
 		</div>
 		<div id="footer" class></div>
 	</div>

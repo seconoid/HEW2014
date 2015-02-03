@@ -42,7 +42,7 @@
 			<input type="radio" name="q5" value="0" />楽しい！<br />
 			<input type="radio" name="q5" value="0" />楽しそう！<br />
 			<input type="radio" name="q5" value="2" />つらい<br />
-			<input type="radio" name="q5" value="1" />つらそう<br />
+			<input type="radio" name="q5" value="2" />つらそう<br />
 		</p>
 		<p>
 			<input type="submit" value="診断！" />
