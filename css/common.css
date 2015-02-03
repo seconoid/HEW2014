@@ -16,13 +16,9 @@ a {
 	font-size: 32px;
 }
 
-li {
-	display: block;
-}
-
 #wrapper {
 	margin: 0 auto;
-	width: 600px;
+	width: 800px;
 }
 
 .indicator {
