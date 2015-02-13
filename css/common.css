@@ -32,6 +32,7 @@ a {
 }
 
 .colorChange {
+	z-index: 6;
 	position: fixed;
 	top: 10px;
 }
@@ -54,37 +55,38 @@ a {
 	width: 800px;
 }
 
-#outside {
-	top: 0;
-	z-index: -5;
-	background: #ef5350;
-}
-
 #kitchen, #bathroom, #living, #entrance, #bye {
 	top: 700px;
 }
 
+#outside {
+	top: 0;
+	z-index: 0;
+	background: url(../images/outside.png);	
+}
+
 #kitchen {
-	z-index: -4;
-	background: #EC407A;
+	z-index: 1;
+	background: url(../images/kitchen.png);
 }
 
 #bathroom {
-	z-index: -3;
-	background: #7E57C2;
+	z-index: 2;
+	background: url(../images/bathroom.png);
 }
 
 #living {
-	z-index: -2;
+	z-index: 3;
 	background: #29B6F6;
+	background: url(../images/living.png);
 }
 
 #entrance {
-	z-index: -1;
+	z-index: 4;
 	background: #D4E157;
 }
 
 #bye {
-	z-index: 0;	
+	z-index: 5;	
 	background: #FFCA28;
 }

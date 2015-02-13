@@ -1,9 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@ page import="java.sql.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="Content-Style-Type" content="text/css" />
 	<meta http-equiv="Content-Style-Type" content="text/javascript" />
 	<link rel="stylesheet" type="text/css" href="./css/common.css" />
@@ -11,6 +12,37 @@
 <title>一人暮らし度チェック</title>
 </head>
 <body>
+	<%
+		// 文字化け対策
+		request.setCharacterEncoding("utf8");
+	
+		/////  DB環境の構築 　/////
+		
+		// ドライバのロード
+		Class.forName("com.mysql.jdbc.Driver");
+		// コネクションの取得
+		Connection con = DriverManager.getConnection("jdbc:mysql://localhost/db11", "root", "");
+		
+		// ステートメントの作成
+		Statement smt = null;
+		smt = con.createStatement();
+		
+		// SQL文の作成と実行
+		String sql = "SELECT * FROM STUDENT_INFO";
+		ResultSet rs = smt.executeQuery(sql);
+		
+		// 結果の取得と表示
+		while(rs.next()){
+	%>
+	<p>
+		ID:<%= rs.getString("STUDENT_NO") %><br />
+		PW:<%= rs.getString("NAME") %><br />
+	</p>
+	<%
+		}
+		smt.close();
+		con.close();
+	%>
 	<h1>一人暮らし度チェック</h1>
 	<form action="result.jsp" method="post">
 		<h2>料理は作る？</h2>
