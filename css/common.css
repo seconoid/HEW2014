@@ -1,4 +1,5 @@
 /* ポップな色使いを意識！*/
+
 @charset "utf-8";
 
 body, ul, li, h1, h2, h3, p, img{
@@ -8,7 +9,7 @@ body, ul, li, h1, h2, h3, p, img{
 }
 
 body {
-	height: 4600px;
+	height: 4183px;
 	background:#f3f2f7;
 }
 
@@ -18,7 +19,7 @@ a {
 
 #wrapper {
 	margin: 0 auto;
-	width: 800px;
+	width: 100%;
 }
 
 .indicator {
@@ -52,7 +53,14 @@ a {
 .content {
 	position: fixed;
 	height: 700px;
-	width: 800px;
+	width: 100%;
+}
+
+.items {
+	width: 1000px;
+	height: 700px;
+	margin: 0 auto;
+	position: relative;
 }
 
 #kitchen, #bathroom, #living, #entrance, #bye {
@@ -62,28 +70,29 @@ a {
 #outside {
 	top: 0;
 	z-index: 0;
-	background: url(../images/outside.png);	
+	background: url(../images/outside_bg.png);	
 }
 
 #kitchen {
 	z-index: 1;
-	background: url(../images/kitchen.png);
+	background: url(../images/kitchen_bg.png);
 }
 
 #bathroom {
 	z-index: 2;
-	background: url(../images/bathroom.png);
+	background: url(../images/bathroom_bg.png);
 }
 
 #living {
 	z-index: 3;
 	background: #29B6F6;
-	background: url(../images/living.png);
+	background: url(../images/living_bg.png);
 }
 
 #entrance {
 	z-index: 4;
 	background: #D4E157;
+	background: url(../images/entrance_bg.png);
 }
 
 #bye {

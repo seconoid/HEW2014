@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
+   width="1301"
    height="700"
    id="svg3961"
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="kitchen.svg"
-   inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen.png"
+   inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_bg.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,17 +27,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="256.42175"
-     inkscape:cy="423.5366"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="593.90389"
+     inkscape:cy="432.54736"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1301"
+     inkscape:window-width="1303"
      inkscape:window-height="745"
-     inkscape:window-x="57"
+     inkscape:window-x="55"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata3966">
     <rdf:RDF>
@@ -56,78 +57,114 @@
      id="layer1"
      transform="translate(0,-352.36218)">
     <rect
-       style="fill:#bbf1b4;fill-opacity:1;stroke:none;stroke-width:0.84344350999999984;stroke-opacity:1"
+       style="fill:#fab96e;fill-opacity:1;stroke:none"
        id="rect4531"
-       width="799.15656"
-       height="699.15656"
-       x="0.42172176"
-       y="352.78391" />
+       width="1301"
+       height="700"
+       x="0"
+       y="352.36218"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#c8c4b7;stroke:none"
        id="rect4493"
        width="72.485878"
        height="122.95146"
-       x="32.324883"
-       y="834.78125" />
+       x="-948.54022"
+       y="762.67957" />
     <rect
-       style="fill:#9bb9e1;stroke:none;fill-opacity:1"
+       style="fill:#9bb9e1;fill-opacity:1;stroke:none"
        id="rect4499"
        width="147.48227"
        height="299.00516"
-       x="642.45703"
-       y="660.74786" />
+       x="-293.40298"
+       y="587.31989"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#fff5a0;stroke:none;fill-opacity:1"
+       style="fill:#fff5a0;fill-opacity:1;stroke:none"
        id="rect4505"
        width="476.79199"
        height="151.52289"
-       x="149.50258"
-       y="808.2301"
-       ry="0" />
+       x="-831.36255"
+       y="736.12842"
+       ry="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#d7d7d7;fill-opacity:1;stroke:none"
        id="rect4517"
        width="324.25897"
        height="49.254307"
-       x="302.03561"
-       y="776.14844" />
+       x="-678.82953"
+       y="704.04675"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#fff5a0;stroke:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#fff5a0;fill-opacity:1;stroke:none"
        id="rect4523"
        width="332.85715"
        height="137.14285"
-       x="295.71429"
-       y="-14.285715"
-       transform="translate(0,352.36218)" />
+       x="-685.15088"
+       y="291.97485" />
     <rect
-       style="fill:#d7d7d7;stroke:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#d7d7d7;fill-opacity:1;stroke:none"
        id="rect4525"
        width="222.85715"
        height="140"
-       x="31.428572"
-       y="-18.571428"
-       transform="translate(0,352.36218)" />
+       x="-949.43652"
+       y="287.68912" />
     <rect
-       style="fill:#f0828c;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#f0828c;fill-opacity:1;stroke:none"
        id="rect4527"
        width="476.28693"
        height="24.748737"
-       x="149.50258"
-       y="807.72504" />
+       x="-831.36255"
+       y="735.62335"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#fa828c;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#fa828c;fill-opacity:1;stroke:none"
        id="rect4529"
        width="332.85715"
        height="22.142857"
-       x="295.71429"
-       y="100.71429"
-       transform="translate(0,352.36218)" />
+       x="-685.15088"
+       y="406.97485" />
     <rect
-       style="fill:#d38d5f;fill-opacity:1;stroke:none"
+       style="fill:#a8baff;fill-opacity:1;stroke:none;opacity:0.97999999999999998"
        id="rect3971"
-       width="985.90887"
-       height="149.50258"
+       width="1448.5587"
+       height="175.31296"
        x="-87.345909"
-       y="958.19037" />
+       y="932.37994"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\rect3971.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.65983605;fill:none;stroke:#fffef0;stroke-width:6.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5692"
+       sodipodi:cx="937.42157"
+       sodipodi:cy="718.18274"
+       sodipodi:rx="54.548237"
+       sodipodi:ry="54.548237"
+       d="m 991.96981,718.18274 a 54.548237,54.548237 0 1 1 -109.09648,0 54.548237,54.548237 0 1 1 109.09648,0 z"
+       transform="translate(-243.44676,456.91296)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.65983605;fill:#fffef0;fill-opacity:1;stroke:none"
+       d="m 660.63975,1151.8621 67.68022,0 -34.99999,60.6218 z"
+       id="path5696"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>

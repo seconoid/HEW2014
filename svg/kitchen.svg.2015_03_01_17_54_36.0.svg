@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1301"
+   height="700"
+   id="svg3961"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="kitchen.svg.2015_03_01_17_54_36.0.svg"
+   inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_bg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3963" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="524.41756"
+     inkscape:cy="398.222"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1303"
+     inkscape:window-height="745"
+     inkscape:window-x="55"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3966">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36218)">
+    <rect
+       style="fill:#f8b444;fill-opacity:1;stroke:none"
+       id="rect4531"
+       width="1301"
+       height="700"
+       x="-0.0040444136"
+       y="352.36987"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#e1e1e1;fill-opacity:1;stroke:none"
+       id="rect4525"
+       width="222.85715"
+       height="140"
+       x="208.36172"
+       y="352.08899"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fff5a0;fill-opacity:1;stroke:none"
+       id="rect4523"
+       width="431.4064"
+       height="135.16937"
+       x="459.7966"
+       y="339.29947"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.65983605;fill:none;stroke:#fffef0;stroke-width:6.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5692"
+       sodipodi:cx="937.42157"
+       sodipodi:cy="718.18274"
+       sodipodi:rx="54.548237"
+       sodipodi:ry="54.548237"
+       d="m 991.96981,718.18274 c 0,30.12616 -24.42208,54.54824 -54.54824,54.54824 -30.12616,0 -54.54824,-24.42208 -54.54824,-54.54824 0,-30.12616 24.42208,-54.54824 54.54824,-54.54824 30.12616,0 54.54824,24.42208 54.54824,54.54824 z"
+       transform="translate(-243.44676,456.91296)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.65983605;fill:#fffef0;fill-opacity:1;stroke:none"
+       d="m 660.63975,1151.8621 67.68022,0 -34.99999,60.6218 z"
+       id="path5696"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3959"
+       style="fill:#f24646;fill-opacity:1"
+       transform="matrix(1.9216752,0,0,2.1083422,-539.70356,-817.96307)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3874-1"
+         d="m 485.82657,714.57893 c -3.94019,4.5025 -5.12596,12.09191 0.12326,12.03554 4.93131,-0.0529 4.44911,-7.60617 -0.12326,-12.03554 z"
+         style="fill:#f24646;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3874"
+         d="m 505.11505,714.57893 c -3.94016,4.5025 -5.12594,12.09191 0.12327,12.03554 4.93132,-0.0529 4.44912,-7.60617 -0.12327,-12.03554 z"
+         style="fill:#f24646;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:transform-center-y="-6.0179441"
+         inkscape:transform-center-x="5.350057"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3874-51"
+         d="m 466.53804,714.57891 c -3.94015,4.50252 -5.12595,12.09192 0.12327,12.03556 4.93131,-0.0529 4.44911,-7.60617 -0.12327,-12.03556 z"
+         style="fill:#f24646;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3874-5"
+         d="m 495.47083,714.57891 c -3.94016,4.5025 -5.12593,12.09192 0.12326,12.03556 4.93132,-0.0529 4.44912,-7.60618 -0.12326,-12.03556 z"
+         style="fill:#f24646;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:transform-center-x="-3.9738857e-005"
+         inkscape:transform-center-y="-1.8506159"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3874-7"
+         d="m 476.18232,714.57891 c -3.94015,4.50252 -5.12594,12.09192 0.12328,12.03556 4.9313,-0.0529 4.44908,-7.60618 -0.12328,-12.03556 z"
+         style="fill:#f24646;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4012"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1.5353863,0,0,1.115284,-351.6675,-96.392304)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+         style="fill:#595959;fill-opacity:1"
+         id="g3966">
+        <rect
+           style="fill:#595959;fill-opacity:1;stroke:none"
+           id="rect3796"
+           width="3.530328"
+           height="10.355983"
+           x="484.16772"
+           y="716.81055" />
+        <rect
+           style="fill:#595959;fill-opacity:1;stroke:none"
+           id="rect3796-7"
+           width="3.530328"
+           height="10.355983"
+           x="511.41205"
+           y="716.81055" />
+        <rect
+           style="fill:#595959;fill-opacity:1;stroke:none"
+           id="rect3796-4"
+           width="3.530328"
+           height="10.355983"
+           x="456.9234"
+           y="716.81055" />
+      </g>
+      <g
+         transform="translate(0,-15)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+         style="fill:#595959;fill-opacity:1"
+         id="g3983">
+        <rect
+           style="fill:#595959;fill-opacity:1;stroke:none"
+           id="rect3796-6"
+           width="5.4204173"
+           height="11.549862"
+           x="261.27777"
+           y="718.13104"
+           inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#595959;fill-opacity:1;stroke:none"
+           id="rect3796-7-5"
+           width="5.4204173"
+           height="11.549862"
+           x="303.10822"
+           y="718.13104"
+           inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#595959;fill-opacity:1;stroke:none"
+           id="rect3796-4-6"
+           width="5.4204173"
+           height="11.549862"
+           x="219.4471"
+           y="718.13104"
+           inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         transform="matrix(1.1596393,0,0,0.9116531,-142.15669,67.443782)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+         id="g3979">
+        <rect
+           style="fill:#bababa;fill-opacity:1;stroke:none"
+           id="rect3790"
+           width="223.7932"
+           height="49.93079"
+           x="291.05927"
+           y="709.85236"
+           inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#858585;fill-opacity:1;stroke:none"
+           id="rect4000"
+           width="223.93944"
+           height="37.403812"
+           x="291.05103"
+           y="722.4054"
+           inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_04.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.6178494,0,0,1.5582054,-176.09364,-456.09332)"
+       id="g4107-3"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(0.74999999,0,0,0.74999999,27.745534,451.12111)"
+         d="m 444.28572,425 c 0,6.11458 -4.95684,11.07143 -11.07143,11.07143 -6.11458,0 -11.07142,-4.95685 -11.07142,-11.07143 0,-6.11458 4.95684,-11.07143 11.07142,-11.07143 6.11459,0 11.07143,4.95685 11.07143,11.07143 z"
+         sodipodi:ry="11.071428"
+         sodipodi:rx="11.071428"
+         sodipodi:cy="425"
+         sodipodi:cx="433.21429"
+         id="path4008-9-7-1"
+         style="fill:#494949;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4008-9-2"
+         transform="translate(0,352.36218)"
+         d="m 352.65625,409.1875 c -0.63846,0 -1.24664,0.0823 -1.84375,0.21875 l 0,16.1875 c 0.59711,0.13642 1.20529,0.21875 1.84375,0.21875 0.71113,0 1.40375,-0.11309 2.0625,-0.28125 l 0,-16.0625 c -0.65875,-0.16816 -1.35137,-0.28125 -2.0625,-0.28125 z"
+         style="fill:#707070;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3971"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.0857682,0,0,1.0733996,-77.482601,-68.681797)">
+      <g
+         id="g3975"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           style="fill:#93b5d7;fill-opacity:1;stroke:none"
+           id="rect4499"
+           width="147.48227"
+           height="299.00516"
+           x="903.39532"
+           y="636.71973"
+           inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#447cb7;fill-opacity:1;stroke:none"
+           id="rect4135"
+           width="147.24747"
+           height="7.8571429"
+           x="903.64716"
+           y="803.19061" />
+      </g>
+    </g>
+    <rect
+       style="fill:#7fcf5f;fill-opacity:1;stroke:none;opacity:0.97999999999999998"
+       id="rect3971"
+       width="1448.5587"
+       height="175.31296"
+       x="-87.345909"
+       y="932.37994"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\rect3971.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4025"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="729.57288"
+         x="463.22803"
+         height="51.036282"
+         width="427.02237"
+         id="rect4517"
+         style="fill:#fff5a0;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="714.14575"
+         x="463.23276"
+         height="15.977832"
+         width="427.13995"
+         id="rect4517-1"
+         style="fill:#bababa;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="759.57257"
+         x="193.13116"
+         height="24.493639"
+         width="697.1709"
+         id="rect4527"
+         style="fill:#ed5d6b;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         ry="3.9111617"
+         y="775.03705"
+         x="266.3309"
+         height="11.733485"
+         width="118.03722"
+         id="rect4173"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         ry="5.1468592"
+         y="775.03705"
+         x="539.7149"
+         height="15.440578"
+         width="118.03722"
+         id="rect4173-1"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         ry="4.0582685"
+         y="775.03705"
+         x="740.91461"
+         height="12.174804"
+         width="51.458435"
+         id="rect4173-3"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         ry="0"
+         y="783.9455"
+         x="193.37666"
+         height="149.23697"
+         width="697.11029"
+         id="rect4505"
+         style="fill:#fefa91;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="783.91846"
+         x="740.901"
+         height="149.19928"
+         width="5.5603843"
+         id="rect4137-3"
+         style="fill:#ddcb56;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="783.91846"
+         x="597.17346"
+         height="149.19928"
+         width="5.5603843"
+         id="rect4137-34"
+         style="fill:#ddcb56;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="783.91846"
+         x="463.3562"
+         height="149.19928"
+         width="5.5603843"
+         id="rect4137-1"
+         style="fill:#ddcb56;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="783.91846"
+         x="322.74313"
+         height="149.19928"
+         width="5.5603843"
+         id="rect4137"
+         style="fill:#ddcb56;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="759.53937"
+         x="322.74585"
+         height="23.48641"
+         width="5.7281199"
+         id="rect4200"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="759.53937"
+         x="597.06927"
+         height="23.48641"
+         width="5.7281199"
+         id="rect4200-8"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="759.53937"
+         x="740.92346"
+         height="23.48641"
+         width="5.7281199"
+         id="rect4200-7"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_01.png"
+         y="759.57373"
+         x="463.33646"
+         height="24.491362"
+         width="5.5979319"
+         id="rect4200-8-4"
+         style="fill:#bf3d37;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#ed5d6b;fill-opacity:1;stroke:none"
+       id="rect4529"
+       width="431.4064"
+       height="21.910606"
+       x="459.7966"
+       y="469.78741"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#bf3d37;fill-opacity:1;stroke:none"
+       id="rect4173-1-7"
+       width="116.85854"
+       height="14.465954"
+       x="540.86432"
+       y="483.62411"
+       ry="5.1949344" />
+    <rect
+       style="fill:#ddcb56;fill-opacity:1;stroke:none"
+       id="rect4137-34-1"
+       width="5.5209165"
+       height="163.2491"
+       x="596.6109"
+       y="314.01868" />
+    <rect
+       style="fill:#bf3d37;fill-opacity:1;stroke:none"
+       id="rect4200-8-4-2"
+       width="5.5420322"
+       height="20.555241"
+       x="596.61084"
+       y="469.69928" />
+    <rect
+       style="fill:#ddcb56;fill-opacity:1;stroke:none"
+       id="rect4137-34-1-7"
+       width="5.5209165"
+       height="163.2491"
+       x="738.93341"
+       y="314.01221"
+       inkscape:transform-center-x="11.568367"
+       inkscape:transform-center-y="-14.557292" />
+    <rect
+       style="fill:#bf3d37;fill-opacity:1;stroke:none"
+       id="rect4200-8-4-7"
+       width="5.5420322"
+       height="21.864498"
+       x="739.0285"
+       y="469.83182" />
+    <rect
+       style="fill:#bf3d37;fill-opacity:1;stroke:none"
+       id="rect4173-1-7-4"
+       width="58.564331"
+       height="14.465954"
+       x="739.05286"
+       y="483.39935"
+       ry="5.1949344" />
+    <g
+       transform="matrix(1.6178494,0,0,1.5582054,-306.32941,-456.09332)"
+       id="g4107-3-1">
+      <path
+         transform="matrix(0.74999999,0,0,0.74999999,27.745534,451.12111)"
+         d="m 444.28572,425 c 0,6.11458 -4.95684,11.07143 -11.07143,11.07143 -6.11458,0 -11.07142,-4.95685 -11.07142,-11.07143 0,-6.11458 4.95684,-11.07143 11.07142,-11.07143 6.11459,0 11.07143,4.95685 11.07143,11.07143 z"
+         sodipodi:ry="11.071428"
+         sodipodi:rx="11.071428"
+         sodipodi:cy="425"
+         sodipodi:cx="433.21429"
+         id="path4008-9-7-1-6"
+         style="fill:#494949;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4008-9-2-3"
+         transform="translate(0,352.36218)"
+         d="m 352.65625,409.1875 c -0.63846,0 -1.24664,0.0823 -1.84375,0.21875 l 0,16.1875 c 0.59711,0.13642 1.20529,0.21875 1.84375,0.21875 0.71113,0 1.40375,-0.11309 2.0625,-0.28125 l 0,-16.0625 c -0.65875,-0.16816 -1.35137,-0.28125 -2.0625,-0.28125 z"
+         style="fill:#707070;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#9b9b9b;fill-opacity:1;stroke:none"
+       id="rect4048"
+       width="210.87004"
+       height="22.807611"
+       x="214.68629"
+       y="473.55457"
+       ry="4.9891653"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#626262;fill-opacity:1;stroke:none"
+       id="rect4052"
+       width="74.712425"
+       height="10.324116"
+       x="347.61835"
+       y="458.67496"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#778aed;fill-opacity:1;stroke:none"
+       id="rect4054"
+       width="22.425514"
+       height="10.297242"
+       x="349.21216"
+       y="458.70184"
+       ry="0.75"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;stroke:none"
+       id="rect4054-2"
+       width="22.675514"
+       height="10.297242"
+       x="373.32385"
+       y="458.70184"
+       ry="0.5"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;stroke:none"
+       id="rect4054-4"
+       width="22.948952"
+       height="10.303698"
+       x="397.87057"
+       y="458.70184"
+       ry="0.625"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\kitchen_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

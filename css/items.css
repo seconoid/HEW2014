@@ -1,0 +1,605 @@
+/*床の高さ120*/
+
+@charset "utf-8";
+
+/*general*/
+.content img {
+	position: absolute;
+}
+
+.effect {
+	transform: rotation(0deg);
+}
+
+#scrollButton {
+	position: fixed;
+	left: 565px;
+	bottom: 15px;
+	z-index: 10;
+}
+
+/*** outside ***/
+
+/* house */
+#outside01 {
+	bottom: 120px;
+	left: 180px;
+	z-index: 3;
+}
+
+/* cloud1 */
+#outside02 {
+	top: 200px;
+	right: 50px;
+	z-index: 1;
+	-webkit-animation: slide1 12s infinite alternate;
+	-moz-animation: slide1 12s infinite alternate;
+	animation: slide1 12s infinite alternate;
+	-webkit-animation-timing-function: ease-in-out;
+	-moz-animation-timing-function: ease-in-out;
+	animation-timing-function: ease-in-out;
+}
+
+/* cloud2 */
+#outside03 {
+	top: 80px;
+	left: 50px;
+	z-index: 1;
+	-webkit-animation: slide2 3s infinite alternate;
+	-moz-animation: slide2 3s infinite alternate;
+	animation: slide2 3s infinite alternate;
+	-webkit-animation-timing-function: ease-in-out;
+	-moz-animation-timing-function: ease-in-out;
+	animation-timing-function: ease-in-out;
+}
+
+/*door*/
+#outside04 {
+	bottom: 120px;
+	left: 407px;
+	z-index: 4;
+}
+
+/* cloud slide  animation*/
+@keyframes slide1 {
+	0% {right: 50px;}
+	100% {right: 150px;}
+}
+
+@-webkit-keyframes slide1 {
+	0% {right: 50px;}
+	100% {right: 150px;}
+}
+
+@keyframes slide2 {
+	0% {left: 50px;}
+	100% {left: 70px;}
+}
+
+@-webkit-keyframes slide2 {
+	0% {left: 50px;}
+	100% {left: 70px;}
+}
+
+
+/*** kitchen ***/
+
+/* sink */
+#kitchen01 {
+	bottom: 120px;
+	left: 20px;
+	z-index: 3;
+}
+
+/* fridge */
+#kitchen02 {
+	bottom: 120px;
+	left: 750px;
+}
+
+/*shelf*/
+#kitchen03 {
+	top: 0px;
+	left: 287px;	
+}
+
+/*conro*/
+#kitchen04 {
+	bottom: 293px;
+	left: 25px;
+	z-index: 2;
+}
+
+
+/*fire*/
+#kitchen05 {
+	bottom: 338px;
+	left: 180px;
+}
+
+/*leftSwitch*/
+#kitchen06_1 {
+	bottom: 297px;
+	left: 80px;
+	z-index: 3;
+}
+
+/*rightSwitch*/
+#kitchen06_2 {
+	bottom: 297px;
+	left: 210px;
+	z-index: 3;
+	transform: rotate(60deg);
+}
+
+/*ventilating fan*/
+#kitchen07 {
+	top: 0px;
+	left: 40px;
+}
+
+/*leftButton*/
+#kitchen08_1 {
+	top: 107px;
+	left: 181px;
+	display: none;
+	z-index: 2;
+}
+
+/*centerButton*/
+#kitchen08_2 {
+	top: 107px;
+	left: 205px;
+	z-index: 2;
+}
+
+/*rghtButton*/
+#kitchen08_3 {
+	top: 107px;
+	left: 229px;
+	z-index: 2;
+}
+
+/*movingConro*/
+#kitchen09 {
+	bottom: 287px;
+	left: 25px;
+	z-index: 2;
+	display: none;
+}
+
+/*jagu-chi*/
+#kitchen10 {
+	bottom: 352px;
+	left: 510px;
+	z-index: 2;
+}
+
+/*sponge*/
+#kitchen11 {
+	bottom: 351px;
+	left: 639px;
+}
+
+/*washed*/
+#kitchen12 {
+	bottom: 338px;
+	left: 310px;
+	z-index: 1;
+}
+
+/*syokki*/
+#kitchen13 {
+	bottom: 338px;
+	left: 420px;
+	z-index: 2;
+}
+
+/*sponge case*/
+#kitchen14 {
+	bottom: 348px;
+	left: 630px;
+	z-index: 2;
+}
+
+/*senzai*/
+#kitchen15 {
+	bottom: 351px;
+	left: 673px;
+}
+
+/** kitchen anime **/
+
+/*fire*/
+#kitchen_anime01 {
+	bottom: 338px;
+	left: 180px;
+	display: none;
+}
+
+/*leftButtonOn*/
+#kitchen_anime11{
+	top: 107px;
+	left: 181px;
+	z-index: 1;
+}
+
+/*centerButtonOn*/
+#kitchen_anime12{
+	top: 107px;
+	left: 205px;
+	z-index: 1;
+}
+
+/*rightButtonOn*/
+#kitchen_anime13{
+	top: 107px;
+	left: 229px;
+	z-index: 1;
+}
+
+/*ventBlow*/
+#kitchen_anime21{
+	top: 147px;
+	left: 55px;
+	display: none;
+}
+
+#kitchen_anime22{
+	top: 149px;
+	left: 72px;
+	display: none;
+}
+
+#kitchen_anime23{
+	top: 145px;
+	left: 25px;
+	display: none;
+}
+
+#kitchen_anime24{
+	top: 144px;
+	left: 55px;
+	display: none;
+}
+
+/*water*/
+#kitchen_anime31 {
+	bottom: 325px;
+	left: 601px;
+	z-index: 1;
+	display: none;
+}
+
+/*bouble washing*/
+#kitchen_anime41 {
+	bottom: 320px;
+	left: 560px;
+	z-index: 2;
+	display: none;
+}
+
+#kitchen_anime42 {
+	bottom: 338px;
+	left: 310px;
+	z-index: 1;
+	display: none;
+}
+
+#kitchen_anime43 {
+	bottom: 338px;
+	left: 310px;
+	z-index: 1;
+	display: none;
+}
+
+#kitchen_anime44 {
+	bottom: 338px;
+	left: 310px;
+	z-index: 1;
+	display: none;
+}
+
+/* buttom shelf open*/
+#kitchen_anime51 {
+	bottom: 120px;
+	left: 429px;
+	z-index: 4;
+	opacity: 0;
+}
+
+#kitchen_anime52 {
+	bottom: 120px;
+	left: 429px;
+	z-index: 5;
+	opacity: 0;
+}
+
+#kitchen_anime61 {
+	bottom: 120px;
+	left: 750px;
+	display: none;
+}
+
+#kitchen_anime62 {
+	bottom: 120px;
+	left: 750px;
+	display: none;
+}
+
+#kitchen_anime63 {
+	bottom: 120px;
+	left: 750px;
+	display: none;
+}
+
+/**clickArea**/
+#conroFlag {
+	bottom: 293px;
+	left: 26px;
+	z-index: 2;
+	opacity: 0;
+}
+
+#jaguchiFlag {
+	bottom: 365px;
+	left: 510px;
+	z-index: 3;
+	opacity: 0;
+}
+
+#spongeFlag {
+	bottom: 350px;
+	left: 638px;
+	z-index: 3;
+	opacity: 0;
+}
+
+#washingFlag {
+	bottom: 339px;
+	left: 420px;
+	z-index: 4;
+	opacity: 0;
+}
+
+/**effect**/
+#washed_effect {
+	bottom: 325px;
+	left: 280px;
+	z-index: 3;
+	display: none;
+}
+
+/*** bathroom ***/
+
+/* bath */
+#bathroom01 {
+	bottom: 120px;
+	left: 590px;
+	z-index: 2;
+}
+
+/* chair */
+#bathroom02 {
+	bottom: 120px;
+	left: 290px;
+}
+
+/* lack */
+#bathroom03 {
+	bottom: 180px;
+	left: 120px;
+}
+
+/* light */
+#bathroom04 {
+	bottom: 605px;
+	left: 420px;
+}
+
+/* faucet */
+#bathroom05 {
+	bottom: 350px;
+	left: 547px;
+	z-index: 2;
+}
+
+/*dispacher*/
+#bathroom06 {
+	bottom: 355px;
+	left: 588px;
+	z-index: 3;
+}
+
+/* mirror */
+#bathroom07 {
+	bottom: 395px;
+	left: 391px;
+}
+
+/*washstand*/
+#bathroom08 {
+	bottom: 270px;
+	left: 380px;
+}
+
+/*shower*/
+#bathroom09 {
+	bottom: 230px;
+	left: 250px;
+	z-index: 1;
+}
+
+
+/** bathroom anime **/
+
+/* shower */
+#bathroom_anime01 {
+	bottom: 420px;
+	left: 110px;	
+}
+
+#bathroom_anime02 {
+	bottom: 410px;
+	left: 85px;
+	display: none;
+}
+
+#bathroom_anime03 {
+	bottom: 435px;
+	left: 190px;
+	display: none;
+}
+
+#bathroom_anime04 {
+	bottom: 530px;
+	left: 240px;
+	display: none;
+}
+
+
+/*click area*/
+#showerFlag {
+	bottom: 360px;
+	left: 545px;
+	z-index: 5;
+	opacity: 0;
+}
+
+/*showerDone*/
+#shower_effect {
+	bottom: 500px;
+	left: 165px;
+	display: none;
+	z-index: 4;
+}
+
+
+/*** living ***/
+
+/*bed*/
+#living01 {
+	bottom: 120px;
+	left:80px;
+	z-index: 2;
+}
+
+/*window*/
+#living02 {
+	bottom: 200px;
+	left: 297px;
+}
+
+/*light*/
+#living03 {
+	top: 0px;
+	left: 375px;
+}
+
+/*desk*/
+#living04 {
+	bottom: 120px;
+	left: 715px;
+	z-index: 3;
+}
+
+/*chair*/
+#living05 {
+	bottom: 120px;
+	left: 655px;
+	z-index: 2;
+}
+
+/*carten*/
+#living06 {
+	bottom: 124px;
+	left: 255px;
+	z-index: 1;
+}
+
+/*books*/
+#living07 {
+	bottom: 120px;
+	left: 15px;
+	z-index: 1;
+}
+
+/*** living anime ***/
+
+/*window*/
+#living_anime01 {
+	bottom: 200px;
+	left: 297px;
+	display: none;
+}
+
+#living_anime02 {
+	bottom: 200px;
+	left: 297px;
+	display: none;
+}
+
+#living_anime03 {
+	bottom: 200px;
+	left: 297px;
+	display: none;
+}
+
+#living_anime04 {
+	bottom: 200px;
+	left: 297px;
+	display: none;
+}
+
+/*books*/
+#living_anime11 {
+	bottom: 120px;
+	left: 15px;
+	z-index: 1;
+	display: none;
+}
+
+#living_anime12 {
+	bottom: 120px;
+	left: 15px;
+	z-index: 1;
+	display: none;
+}
+
+#living_anime13 {
+	bottom: 120px;
+	left: 15px;
+	z-index: 1;
+	display: none;
+}
+
+/*click area*/
+
+#clothesFlag {
+	bottom: 360px;
+	left: 360px;
+	z-index: 5;
+	opacity: 0;
+}
+
+#booksFlag {
+	bottom: 315px;
+	left: 20px;
+	z-index: 5;
+	opacity: 0;
+}
+
+/*effect*/
+#clothes_effect{
+	bottom: 410px;
+	left: 360px;
+	z-index: 4;
+	opacity: 1;
+}
+
+#books_effect{
+	bottom: 300px;
+	left: 20px;
+	z-index: 4;
+	display: none;
+}

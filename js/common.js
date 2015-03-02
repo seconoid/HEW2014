@@ -1,11 +1,3 @@
-//スクロール値を取得、表示
-$(function() {
-     $(window).scroll(function() {
-          var value = $(this).scrollTop();
-          $('#scrollValue').text(value);
-     });
-});
-
 // パララックススクロール
 $(function() {
 	var PosTop = 700;
@@ -53,7 +45,7 @@ $(function() {
 	$('.scrollNext').click(function () {
 		var i = $('.scrollNext').index(this) + 1;
 		var p = $('.content').eq(i).offset().top;
-		$('html, body').animate({ scrollTop: p }, 1200);
+		$('html, body').animate({ scrollTop: p }, 1410);
 		return false;
 	});
 
