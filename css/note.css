@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
 body {
+	height: 100%;
 	color: #13141d;
-	height: 500px;
 	letter-spacing: 0.14em;
+	background: url(../images/ranking_bg.png) no-repeat;
 }
 
 h1 {
@@ -13,9 +14,53 @@ h1 {
 
 h2 {
 	font-size: 1.2em;
-	padding: 5px 10px;
+	padding: 10px 10px;
+	margin-left: 10px;
 }
 
-p {
-	padding: 10px;
+#wrapper {
+	width: 800px;
+	height: 100%;
+}
+
+#header {
+	height: 70px;
+}
+
+#header img{
+	margin: 10px;
+}
+
+#contents {
+	margin: 0 auto;
+	background: rgba(255, 255, 255, 0.7);
+}
+
+#ranking {
+	padding: 20px;
+	background: rgba(255, 255, 255, 0.4);
+}
+
+.info {
+	font-size: 16px;
+	line-height: 20px;
+	display: -webkit-box;
+	display: box;
+	margin: 20px;
+	height: 20px;
+}
+
+.rank {
+	margin-left: 5px;
+	width: 40px;
+}
+
+.name {
+	margin-left: 5px;
+	width: 180px;
+}
+
+.score {
+	margin-left: 5px;
+	width: 100px;
 }

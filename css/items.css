@@ -13,9 +13,10 @@
 
 #scrollButton {
 	position: fixed;
-	left: 565px;
+	left: 570px;
 	bottom: 15px;
 	z-index: 10;
+	opacity: 0.7;
 }
 
 /*** outside ***/
@@ -29,7 +30,7 @@
 
 /* cloud1 */
 #outside02 {
-	top: 200px;
+	top: 250px;
 	right: 50px;
 	z-index: 1;
 	-webkit-animation: slide1 12s infinite alternate;
@@ -42,7 +43,7 @@
 
 /* cloud2 */
 #outside03 {
-	top: 80px;
+	top: 120px;
 	left: 50px;
 	z-index: 1;
 	-webkit-animation: slide2 3s infinite alternate;
@@ -60,6 +61,94 @@
 	z-index: 4;
 }
 
+/*trees*/
+#outside05 {
+	bottom: 120px;
+	left: 750px;
+	z-index: 2;
+}
+
+/*sun*/
+#outside06 {
+	bottom: 490px;
+	left: 680px;
+	z-index: 1;
+}
+
+/*text*/
+#outside07{
+	bottom: 220px;
+	left: 350px;
+	z-index: 6;
+}
+
+/*bord*/
+#outside08{
+	bottom: 120px;
+	left: -20px;
+}
+
+/*bordText*/
+#outside09{
+	bottom: 280px;
+	left: -15px;
+}
+
+/** animation **/
+
+/*sunshine*/
+#outside_anime01 {
+	bottom: 490px;
+	left: 680px;
+	z-index: 1;
+	display: none;
+}
+#outside_anime02 {
+	bottom: 490px;
+	left: 680px;
+	z-index: 1;
+	display: none;
+}
+#outside_anime03 {
+	bottom: 490px;
+	left: 680px;
+	display: none;
+	z-index: 1;
+}
+
+#outside_anime11 {
+	bottom: 120px;
+	left: 407px;
+	z-index: 5;
+	display: none;
+}
+
+#outside_anime12 {
+	bottom: 120px;
+	left: 407px;
+	z-index: 5;
+	opacity: 0;
+}
+
+#outside_anime21 {
+	bottom: 275px;
+	left: 855px;
+	z-index: 5;
+}
+
+#outside_anime22 {
+	bottom: 275px;
+	left: 857px;
+	z-index: 5;
+	display: none;
+}
+
+#outside_anime23 {
+	bottom: 275px;
+	left: 855px;
+	z-index: 6;
+	opacity: 0;
+}
 /* cloud slide  animation*/
 @keyframes slide1 {
 	0% {right: 50px;}
@@ -315,6 +404,21 @@
 	opacity: 0;
 }
 
+#kitchen_anime53 {
+	bottom: 120px;
+	left: 155px;
+	z-index: 5;
+	opacity: 0;
+}
+
+#kitchen_anime54 {
+	bottom: 120px;
+	left: 155px;
+	z-index: 4;
+	opacity: 0;
+}
+
+/*fridge*/
 #kitchen_anime61 {
 	bottom: 120px;
 	left: 750px;
@@ -408,7 +512,9 @@
 #bathroom06 {
 	bottom: 355px;
 	left: 588px;
-	z-index: 3;
+	z-index: 5;
+	transform: rotate(90deg);
+	transform-origin: 50% 30%;
 }
 
 /* mirror */
@@ -457,12 +563,36 @@
 	display: none;
 }
 
+/*column*/
+#bathroom_anime11 {
+	bottom: 276px;
+	left: 659px;
+	transform: scaleX(0.6);
+	display: none;
+}
+
+#bathroom_anime12 {
+	bottom: 294px;
+	left: 655px;
+	display: none;
+}
+
+/*steam*/
+#bathroom_anime21 {
+	bottom: 200px;
+	left: 540px;
+	display: none;
+	transform: scale(0.5);
+	transform-origin: 50% 50%;
+	z-index: 2;
+}
+
 
 /*click area*/
 #showerFlag {
 	bottom: 360px;
 	left: 545px;
-	z-index: 5;
+	z-index: 4;
 	opacity: 0;
 }
 
@@ -488,6 +618,7 @@
 #living02 {
 	bottom: 200px;
 	left: 297px;
+	display: none;
 }
 
 /*light*/
@@ -524,6 +655,12 @@
 	z-index: 1;
 }
 
+/*bord*/
+#living08 {
+	bottom: 440px;
+	left: 720px;
+}
+
 /*** living anime ***/
 
 /*window*/
@@ -548,7 +685,12 @@
 #living_anime04 {
 	bottom: 200px;
 	left: 297px;
-	display: none;
+}
+
+#living_anime05{
+	bottom: 237px;
+	left: 250px;
+	z-index: 3;
 }
 
 /*books*/
@@ -602,4 +744,119 @@
 	left: 20px;
 	z-index: 4;
 	display: none;
+}
+
+/*** entrance ***/
+
+/*door*/
+#entrance01{
+	bottom: 78px;
+	left: 335px;
+}
+
+/*ueki*/
+#entrance02{
+	bottom: 120px;
+	left: 100px;
+}
+
+/*bootsShelf*/
+#entrance03{
+	bottom: 120px;
+	left: 710px;
+}
+
+/*parasol*/
+#entrance04{
+	bottom: 78px;
+	left: 630px;
+}
+
+/*window*/
+#entrance05{
+	bottom: 400px;
+	left: 728px;
+}
+
+/*light*/
+#entrance06{
+	top: 0px;
+	left: 405px;
+}
+
+/*letter*/
+#entrance07{
+	bottom: 125px;
+	left: 440px;
+	z-index: 3;
+	display: none;
+}
+
+/** animation **/
+
+/*leaves*/
+#entrance_anime01 {
+	bottom: 320px;
+	left: 65px;
+}
+
+/*boots*/
+#entrance_anime11 {
+	bottom: 120px;
+	left: 710px;
+	z-index: 1;
+	display: none;
+}
+
+#entrance_anime12 {
+	bottom: 120px;
+	left: 710px;	
+	z-index: 2;
+	opacity: 0;
+}
+
+/* light */
+#entrance_anime21 {
+	top: 0px;
+	left: 309px;
+}
+
+#entrance_anime22 {
+	top: 0px;
+	left: 360px;
+	display: none;
+}
+
+/*post*/
+#entrance_anime31 {
+	bottom: 118px;
+	left: 402px;
+}
+#entrance_anime32 {
+	bottom: 118px;
+	left: 402px;
+	display: none;
+	z-index: 1;
+}
+#entrance_anime33 {
+	bottom: 118px;
+	left: 402px;
+	z-index: 2;
+	opacity: 0;
+}
+
+/**** bye ****/
+#bye_thanks {
+	bottom: 430px;
+	left: 370px;
+}
+
+#bye_copyright {
+	bottom: 310px;
+	left: 400px;
+}
+
+#bye_restart {
+	bottom: 250px;
+	left: 397px;
 }

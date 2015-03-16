@@ -19,7 +19,15 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4846" />
+     id="defs4846">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 350 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1301 : 350 : 1"
+       inkscape:persp3d-origin="650.5 : 233.33333 : 1"
+       id="perspective6102" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,16 +35,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="560.07405"
-     inkscape:cy="430.0442"
+     inkscape:zoom="4"
+     inkscape:cx="631.6613"
+     inkscape:cy="194.15961"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1302"
+     inkscape:window-width="1303"
      inkscape:window-height="745"
-     inkscape:window-x="56"
+     inkscape:window-x="55"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -57,53 +65,1047 @@
      id="layer1"
      transform="translate(0,-352.3609)">
     <rect
-       style="fill:#e9afdd;fill-opacity:1;stroke:none"
+       style="fill:#e08fcf;fill-opacity:1;stroke:none"
        id="rect4852"
        width="1304.2858"
        height="700"
-       x="0"
-       y="352.36087"
+       x="2.5676501"
+       y="352.85724"
        inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\rect4852.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <path
+       style="fill:#a8c797;fill-opacity:1;stroke:none"
+       d="m 284.02732,652.88578 c 0,0 10.02808,42.19282 35.40251,50.48999 25.37443,8.29717 31.94364,19.89219 31.94364,19.89219 0,0 -7.3911,-19.42306 -7.04251,-30.87137 0.54116,-17.77229 -11.76977,-34.10133 -26.36373,-35.95954 -13.83918,-1.76212 -33.93991,-3.55127 -33.93991,-3.55127 z"
+       id="path6747-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#ffccaa;fill-opacity:1;stroke:none"
+       style="fill:#fcb745;fill-opacity:1;stroke:none"
        id="rect4860"
        width="1307.1428"
        height="119.61874"
        x="3.2260223e-006"
        y="932.45642" />
     <rect
-       style="fill:#e9afdd;fill-opacity:1;stroke:none"
+       style="fill:#e08fcf;fill-opacity:1;stroke:none"
        id="rect3010"
-       width="431.90643"
-       height="81.428574"
-       x="407.03778"
+       width="557.16534"
+       height="61.225521"
+       x="336.40833"
        y="912.78937"
        inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\rect3010.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       ry="8.0812206" />
     <rect
-       style="fill:#939dac;fill-opacity:1;stroke:none"
+       style="fill:#536bb7;fill-opacity:1;stroke:none"
        id="rect3780"
        width="258.57144"
        height="451.42856"
-       x="-384.33374"
-       y="82.093704" />
-    <rect
-       style="fill:#d7eef4;fill-opacity:1;stroke:none"
-       id="rect3782"
-       width="161.42856"
-       height="201.42857"
-       x="-81.157593"
-       y="14.302782" />
+       x="504.41101"
+       y="520.64789"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="4.9492373" />
+    <g
+       id="g5912"
+       transform="matrix(0.71755722,0,0,0.71755722,252.07746,164.918)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="408.69943"
+         x="862.14288"
+         height="235.89436"
+         width="187.14284"
+         id="rect3782-0"
+         style="fill:#236d84;fill-opacity:1;stroke:none"
+         ry="7.0388293" />
+      <rect
+         y="420.01199"
+         x="870.84021"
+         height="214.28572"
+         width="169.99998"
+         id="rect3782"
+         style="fill:#e9f4fb;fill-opacity:1;stroke:none"
+         ry="4.9271803" />
+    </g>
     <rect
        style="fill:#dbe2e3;fill-opacity:1;stroke:none"
        id="rect3784"
-       width="120"
-       height="131.42857"
-       x="-316.10968"
-       y="332.7009"
-       ry="9.999999" />
+       width="135.15228"
+       height="125.36766"
+       x="570.26453"
+       y="798.48419"
+       ry="9.5388432"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime33.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none"
+       id="rect5916"
+       width="22.434368"
+       height="30.494562"
+       x="967.83612"
+       y="471.38666"
+       ry="4.5741844"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none"
+       id="rect5916-5"
+       width="12.506158"
+       height="11.648294"
+       x="976.95197"
+       y="510.99838"
+       ry="2.2523203"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5946"
+       style="fill:#c1c8e4;fill-opacity:1"
+       transform="matrix(0.91871553,0,0,0.91871553,58.293968,80.991401)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="3.6647005"
+         y="731.86383"
+         x="661.42859"
+         height="10.994102"
+         width="70"
+         id="rect5936"
+         style="fill:#c1c8e4;fill-opacity:1;stroke:none" />
+      <path
+         transform="translate(0,352.3609)"
+         d="m 749.53319,384.8324 c 0,7.81048 -6.33165,14.14213 -14.14214,14.14213 -7.81048,0 -14.14213,-6.33165 -14.14213,-14.14213 0,-7.81049 6.33165,-14.14214 14.14213,-14.14214 7.81049,0 14.14214,6.33165 14.14214,14.14214 z"
+         sodipodi:ry="14.142136"
+         sodipodi:rx="14.142136"
+         sodipodi:cy="384.8324"
+         sodipodi:cx="735.39105"
+         id="path5944"
+         style="fill:#c1c8e4;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#474d69;fill-opacity:1;stroke:none"
+       id="path5950"
+       sodipodi:cx="725.79462"
+       sodipodi:cy="372.71057"
+       sodipodi:rx="10.101525"
+       sodipodi:ry="10.101525"
+       d="m 735.89614,372.71057 a 10.101525,10.101525 0 1 1 -20.20305,0 10.101525,10.101525 0 1 1 20.20305,0 z"
+       transform="matrix(0,1.212132,-1.212132,0,1185.8953,-159.03333)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cbcedc;fill-opacity:1;stroke:none"
+       id="rect5967"
+       width="20.356285"
+       height="3.9794242"
+       x="710.39001"
+       y="-736.08661"
+       ry="1.2244382"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#cbcedc;fill-opacity:1;stroke:none"
+       id="rect5969"
+       width="20.357143"
+       height="21.071428"
+       x="742.5"
+       y="675.93231"
+       ry="3.9285715"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cbcedc;fill-opacity:1;stroke:none"
+       id="rect5971"
+       width="59.642857"
+       height="14.285714"
+       x="695.35718"
+       y="678.78949"
+       ry="3.9285715"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#536bb7;fill-opacity:1;stroke:none"
+       id="rect5971-2"
+       width="42.796551"
+       height="8.6315413"
+       x="699.59686"
+       y="681.40796"
+       ry="2.0931466"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#353535;fill-opacity:1;stroke:none"
+       id="path5993"
+       sodipodi:cx="611.64734"
+       sodipodi:cy="256.03796"
+       sodipodi:rx="5.0507627"
+       sodipodi:ry="5.0507627"
+       d="m 616.6981,256.03796 a 5.0507627,5.0507627 0 1 1 -10.10152,0 5.0507627,5.0507627 0 1 1 10.10152,0 z"
+       transform="translate(24.243661,350.84567)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.1414214,0,0,1.1414214,-62.256312,314.47317)"
+       sodipodi:type="arc"
+       style="fill:#d9dcef;fill-opacity:1;stroke:none"
+       id="path5993-0"
+       sodipodi:cx="611.64734"
+       sodipodi:cy="256.03796"
+       sodipodi:rx="2.5253813"
+       sodipodi:ry="2.5253813"
+       d="m 614.17272,256.03796 a 2.5253813,2.5253813 0 1 1 -5.05076,0 2.5253813,2.5253813 0 1 1 5.05076,0 z"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fafafa;fill-opacity:1;stroke:none"
+       id="path6013"
+       sodipodi:cx="638.19196"
+       sodipodi:cy="253.19197"
+       sodipodi:rx="0.78125"
+       sodipodi:ry="0.78125"
+       d="m 638.97321,253.19197 a 0.78125,0.78125 0 1 1 -1.5625,0 0.78125,0.78125 0 1 1 1.5625,0 z"
+       transform="matrix(2.1313708,0,0,2.1313708,-723.33915,65.700366)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#636363;stroke-width:2.29999999999999980;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:0.57647061;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 837.66899,400.23723 4.29315,-38.63833 c 5.61259,-29.12612 28.4628,9.72856 11.36422,10.10152"
+       id="path7284"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.3609)"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#f9f863;fill-opacity:1;stroke:none"
+       d="m 812.01731,955.7042 12.03745,1.42771 31.52692,-210.26264 c 0,0 -0.98051,0.0142 -2.92499,2.83405 -1.20454,1.74679 -6.57788,-2.6943 -9.3523,-4.04977 -0.0362,3.01526 0.68748,3.76848 -1.26238,3.37678 -2.85461,-0.57344 -10.88561,-5.03014 -10.88561,-5.03014 0.51236,4.25686 1.13718,3.74314 -1.07201,3.39108 -1.55994,-0.24856 -6.87508,-3.97852 -6.87508,-3.97852 z"
+       id="path6017"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscscscc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#404040;fill-opacity:1;stroke:none"
+       d="m 812.28296,955.60858 -0.29361,3.54759 4.38866,0.52052 -1.58872,13.39495 2.6332,0.31231 1.57125,-13.24775 4.38865,0.52051 0.54439,-3.51784 z"
+       id="path6019"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="fill:#808080;fill-opacity:0.83886252;stroke:none"
+       id="rect6015"
+       width="45.295864"
+       height="195.2451"
+       x="808.98987"
+       y="778.54431"
+       ry="3.4555688"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6066"
+       style="fill:#fbeec9;fill-opacity:1"
+       transform="matrix(1.4197097,0,0,1.4197097,-333.85392,-313.18157)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(2.5518156,0,0,2.5518156,-1257.8666,-255.15037)"
+         d="m 812.92028,392.21915 c 0,0.52302 -0.42399,0.94701 -0.94701,0.94701 -0.52303,0 -0.94702,-0.42399 -0.94702,-0.94701 0,-0.52303 0.42399,-0.94702 0.94702,-0.94702 0.52302,0 0.94701,0.42399 0.94701,0.94702 z"
+         sodipodi:ry="0.94701803"
+         sodipodi:rx="0.94701803"
+         sodipodi:cy="392.21915"
+         sodipodi:cx="811.97327"
+         id="path6033"
+         style="fill:#fbeec9;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(2.5518156,0,0,2.5518156,-1271.3648,-254.97934)"
+         d="m 821.00146,392.21915 c 0,0.52302 -0.42399,0.94701 -0.94702,0.94701 -0.52302,0 -0.94701,-0.42399 -0.94701,-0.94701 0,-0.52303 0.42399,-0.94702 0.94701,-0.94702 0.52303,0 0.94702,0.42399 0.94702,0.94702 z"
+         sodipodi:ry="0.94701803"
+         sodipodi:rx="0.94701803"
+         sodipodi:cy="392.21915"
+         sodipodi:cx="820.05444"
+         id="path6039"
+         style="fill:#fbeec9;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(2.5518156,0,0,2.5518156,-1262.7297,-254.66358)"
+         d="m 821.00146,392.21915 c 0,0.52302 -0.42399,0.94701 -0.94702,0.94701 -0.52302,0 -0.94701,-0.42399 -0.94701,-0.94701 0,-0.52303 0.42399,-0.94702 0.94701,-0.94702 0.52303,0 0.94702,0.42399 0.94702,0.94702 z"
+         sodipodi:ry="0.94701803"
+         sodipodi:rx="0.94701803"
+         sodipodi:cy="392.21915"
+         sodipodi:cx="820.05444"
+         id="path6039-4"
+         style="fill:#fbeec9;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(2.5518156,0,0,2.5518156,-1254.8708,-253.66363)"
+         d="m 821.00146,392.21915 c 0,0.52302 -0.42399,0.94701 -0.94702,0.94701 -0.52302,0 -0.94701,-0.42399 -0.94701,-0.94701 0,-0.52303 0.42399,-0.94702 0.94701,-0.94702 0.52303,0 0.94702,0.42399 0.94702,0.94702 z"
+         sodipodi:ry="0.94701803"
+         sodipodi:rx="0.94701803"
+         sodipodi:cy="392.21915"
+         sodipodi:cx="820.05444"
+         id="path6039-46"
+         style="fill:#fbeec9;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g6096"
+       style="fill:#ab9761;fill-opacity:1"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="4.3949704"
+         y="716.99023"
+         x="908.36176"
+         height="16.450874"
+         width="176.77489"
+         id="rect6072"
+         style="fill:#ab9761;fill-opacity:1;stroke:none" />
+      <rect
+         y="725.21802"
+         x="917.01135"
+         height="200.71428"
+         width="158.88704"
+         id="rect6074"
+         style="fill:#ab9761;fill-opacity:1;stroke:none" />
+      <rect
+         y="894.50378"
+         x="1062.5842"
+         height="38.214287"
+         width="13.314207"
+         id="rect6076"
+         style="fill:#ab9761;fill-opacity:1;stroke:none"
+         ry="1.25" />
+      <rect
+         y="894.32526"
+         x="916.97827"
+         height="38.214287"
+         width="14.347566"
+         id="rect6076-7"
+         style="fill:#ab9761;fill-opacity:1;stroke:none"
+         ry="1.25" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#fafa71;fill-opacity:1;stroke:none"
+       id="path6106"
+       sodipodi:cx="950.35712"
+       sodipodi:cy="472.5"
+       sodipodi:rx="8.9285717"
+       sodipodi:ry="8.9285717"
+       d="m 959.28569,472.5 a 8.9285717,8.9285717 0 1 1 -17.85715,0 8.9285717,8.9285717 0 1 1 17.85715,0 z"
+       transform="matrix(0.63230449,0,0,1,466.21725,351.64661)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#c19f57;fill-opacity:1;stroke:none"
+       id="rect6132"
+       width="14.285715"
+       height="211.42857"
+       x="250.24513"
+       y="672.36078"
+       ry="4.9492373"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#f0f0e3;fill-opacity:1;stroke:none"
+       id="rect6124"
+       width="128.53447"
+       height="11.158697"
+       x="192.99489"
+       y="832.3725"
+       ry="3.9396183"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#f0f0e3;fill-opacity:1;stroke:none"
+       d="m 205.64399,836.96704 c 0,0 8.53441,95.23357 13.06975,95.39386 4.44071,0.15695 74.16236,0 77.6848,0 5.34992,0 11.42707,-94.73597 11.42707,-94.73597 z"
+       id="path6126"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 228.04784,656.5585 c 0,0 -40.39591,11.87272 -45.28835,31.00893 -4.89244,19.13621 -15.49643,25.13672 -15.49643,25.13672 0,0 18.23408,-7.45761 29.59506,-8.47533 17.63672,-1.5799 32.17118,-12.22695 32.10497,-22.91031 -0.0628,-10.13082 -0.91525,-24.76001 -0.91525,-24.76001 z"
+       id="path6747"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#a8c797;fill-opacity:1;stroke:none"
+       d="m 283.35307,652.93209 c 0,0 9.938,-51.76074 35.21537,-57.37418 25.27738,-5.61342 30.43434,-10.03211 30.43434,-10.03211 0,0 -7.63113,37.40645 -26.11117,46.66995 -18.48003,9.26351 -39.53854,20.73634 -39.53854,20.73634 z"
+       id="path6749-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 227.65174,656.41741 c 0,0 -10.7937,-20.81938 -31.89506,-29.52907 -21.54706,-8.89366 -32.11639,-4.81886 -32.11639,-4.81886 0,0 6.5773,3.11067 10.772,13.04956 7.35678,17.43115 22.60952,19.02788 29.96965,18.94606 8.67185,-0.0964 23.2698,2.35231 23.2698,2.35231 z"
+       id="path6751"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 228.01269,656.03636 c 0,0 13.53044,-12.25115 22.48078,-10.96598 10.4128,0.0202 14.65439,6.03919 24.69794,3.73419 0,0 -8.05109,4.38937 -15.95662,6.64872 -6.11625,1.748 -17.7308,-5.50317 -31.2221,0.58307 z"
+       id="path6753"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#a8c797;fill-opacity:1;stroke:none"
+       d="m 283.87044,653.05845 c 0,0 -26.16649,7.20129 -39.58817,26.25725 -13.70518,19.45847 -10.47632,30.31607 -10.47632,30.31607 0,0 4.65046,-5.87815 16.999,-8.38923 21.6573,-4.40398 25.8167,-18.90936 26.81853,-26.04146 1.18039,-8.40318 6.24696,-22.14263 6.24696,-22.14263 z"
+       id="path6751-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 227.71981,655.83582 c 0,0 52.20537,1.71141 61.00726,23.10629 8.80188,21.39488 13.81762,25.31715 13.81762,25.31715 0,0 -37.78605,-1.63044 -49.29637,-16.5744 -11.51033,-14.94395 -25.52851,-31.84904 -25.52851,-31.84904 z"
+       id="path6749"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#a8c797;fill-opacity:1;stroke:none"
+       d="m 306.9591,647.35299 c 0,0 -7.57738,-11.28186 -5.69642,-17.75568 1.10543,-7.687 5.96869,-10.18506 5.32833,-17.84434 0,0 2.37934,6.40756 3.21009,12.48325 0.64276,4.70056 -5.89735,12.51324 -2.842,23.11677 z"
+       id="path6753-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#a8c797;fill-opacity:1;stroke:none"
+       d="m 240.84935,648.59919 c 0,0 18.73113,-6.22726 26.29345,-3.14727 7.56232,3.07998 11.69171,6.6245 13.86794,6.84652 2.17624,0.22204 2.45039,0.38582 2.45039,0.38582 0,0 -5.44613,-1.21727 -12.00675,2.16985 -8.03333,4.14743 -19.94389,-2.1307 -30.60503,-6.25489 z"
+       id="path6753-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#344a28;fill-opacity:1;stroke:none"
+       d="m 278.67234,599.28256 c 0,0 -4.1641,40.95551 13.60833,56.19742 17.77245,15.24192 19.65754,27.66818 19.65754,27.66818 0,0 -0.28744,-19.70575 3.28091,-29.87552 5.53952,-15.7875 0.45414,-34.22696 -10.60533,-40.37756 -10.48748,-5.83253 -25.94145,-13.61252 -25.94145,-13.61252 z"
+       id="path6747-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 226.22726,609.06828 c 0,0 10.1898,19.25035 7.75031,27.95719 -2.43947,8.70685 -5.95365,13.7725 -5.87743,16.16706 0.0762,2.39458 -0.0733,2.71894 -0.0733,2.71894 0,0 0.58437,-6.10311 -4.39743,-12.64404 -6.1001,-8.00923 -0.58603,-21.96091 2.59782,-34.19915 z"
+       id="path6753-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#344a28;fill-opacity:1;stroke:none"
+       d="m 278.49806,599.38938 c 0,0 -22.85752,-1.57262 -38.9986,11.41097 -16.48201,13.25781 -17.03853,23.99614 -17.03853,23.99614 0,0 5.38439,-3.84829 15.91624,-2.30955 18.4711,2.69869 25.94575,-9.04485 28.79212,-15.13944 3.35366,-7.18078 11.32877,-17.95812 11.32877,-17.95812 z"
+       id="path6751-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6842"
+       transform="matrix(0.59194129,0.12656056,-0.05134716,0.60198652,84.734603,196.67076)"
+       style="fill:#4f654e;fill-opacity:1"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cscssc"
+         inkscape:connector-curvature="0"
+         id="path6747-0"
+         d="m 273.35721,604.46176 c 0,0 -47.87834,17.91452 -53.67699,46.78877 -5.79865,28.87426 -18.36679,37.92831 -18.36679,37.92831 0,0 21.61153,-11.25264 35.07687,-12.78826 20.90352,-2.38389 38.13016,-18.44901 38.05169,-34.56892 -0.0744,-15.2862 -1.08478,-37.3599 -1.08478,-37.3599 z"
+         style="fill:#4f654e;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cscssc"
+         inkscape:connector-curvature="0"
+         id="path6751-3"
+         d="m 273.13068,604.32067 c 0,0 -12.47991,-27.14215 -36.87777,-38.49694 -24.91319,-11.59463 -37.13368,-6.28232 -37.13368,-6.28232 0,0 7.60482,4.05537 12.45482,17.01266 8.50608,22.72492 26.14163,24.80657 34.65157,24.6999 10.02659,-0.12568 26.90506,3.0667 26.90506,3.0667 z"
+         style="fill:#4f654e;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccsc"
+         inkscape:connector-curvature="0"
+         id="path6753-22"
+         d="m 273.49163,603.93962 c 0,0 13.53044,-12.25115 22.48078,-10.96598 10.4128,0.0202 14.65439,6.03919 24.69794,3.73419 0,0 -8.05109,4.38937 -15.95662,6.64872 -6.11625,1.748 -17.7308,-5.50317 -31.2221,0.58307 z"
+         style="fill:#4f654e;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6749-47"
+         d="m 273.19875,603.73908 c 0,0 62.17252,2.11533 72.65489,28.55968 10.48235,26.44435 16.4557,31.29233 16.4557,31.29233 0,0 -45.00023,-2.01524 -58.70813,-20.48617 -13.7079,-18.47092 -30.40246,-39.36584 -30.40246,-39.36584 z"
+         style="fill:#4f654e;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="csscsc"
+         inkscape:connector-curvature="0"
+         id="path6753-8-7"
+         d="m 271.7062,556.97154 c 0,0 10.1898,19.25035 7.75031,27.95719 -2.43947,8.70685 -5.95365,13.7725 -5.87743,16.16706 0.0762,2.39458 -0.0733,2.71894 -0.0733,2.71894 0,0 0.58437,-6.10311 -4.39743,-12.64404 -6.1001,-8.00923 -0.58603,-21.96091 2.59782,-34.19915 z"
+         style="fill:#4f654e;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#344a28;fill-opacity:1;stroke:none"
+       d="m 278.3611,598.9859 c 0,0 -3.74307,-14.34173 0.20695,-20.21372 3.58599,-7.39934 9.16052,-8.09917 11.02845,-16.13108 0,0 0.24214,7.41709 -0.92357,13.91056 -0.90187,5.02378 -9.84903,10.49395 -10.31183,22.43424 z"
+       id="path6753-35"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 249.03051,587.1723 c 0,0 -2.55419,18.55775 5.44566,25.11668 7.99984,6.55892 8.68333,12.13289 8.68333,12.13289 0,0 0.16771,-8.88787 1.97593,-13.54157 2.80702,-7.22439 0.7329,-15.4545 -4.29616,-18.03132 -4.76896,-2.44358 -11.80876,-5.67668 -11.80876,-5.67668 z"
+       id="path6747-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#344a28;fill-opacity:1;stroke:none"
+       d="m 278.12336,599.11704 c 0,0 22.77632,-43.41182 44.471,-40.68692 21.69468,2.72491 27.06185,0.34233 27.06185,0.34233 0,0 -16.81679,31.23489 -34.16095,33.87437 -17.34415,2.63947 -37.3719,6.47022 -37.3719,6.47022 z"
+       id="path6749-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 241.93438,580.9503 c 0,0 -13.40594,-0.4031 -23.14574,7.89743 -9.94553,8.47585 -10.48071,15.03044 -10.48071,15.03044 0,0 3.23967,-2.47482 9.40081,-1.79318 10.80566,1.1955 15.42702,-6.13932 17.21831,-9.92083 2.11056,-4.45541 7.00733,-11.21386 7.00733,-11.21386 z"
+       id="path6751-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#344a28;fill-opacity:1;stroke:none"
+       d="m 245.60339,582.17249 c 0,0 16.6707,0.16322 21.79283,5.25082 5.12215,5.08759 7.38355,9.53774 9.04855,10.40547 1.66499,0.86775 1.8357,1.09898 1.8357,1.09898 0,0 -3.97652,-2.76549 -10.1622,-1.74007 -7.57423,1.25561 -15.23121,-8.03843 -22.51489,-15.01517 z"
+       id="path6753-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 241.86169,580.70784 c 0,0 -1.92243,-8.64516 0.51328,-12.31787 2.25124,-4.59427 5.54177,-5.15583 6.79543,-10.09367 0,0 -0.001,4.51212 -0.81244,8.49579 -0.62746,3.08206 -5.99289,6.63129 -6.49627,13.91575 z"
+       id="path6753-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 241.71941,580.79348 c 0,0 14.22975,-26.99644 26.92981,-25.86321 12.70005,1.1332 15.90118,-0.44839 15.90118,-0.44839 0,0 -10.49059,19.43442 -20.73721,21.46323 -10.24659,2.0288 -22.09378,4.84837 -22.09378,4.84837 z"
+       id="path6749-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 222.93139,571.2614 c 0,0 9.79642,-0.30526 12.70882,2.66945 2.91239,2.97467 4.15549,5.63052 5.11742,6.11867 0.96193,0.48814 1.05781,0.62484 1.05781,0.62484 0,0 -2.28396,-1.58804 -5.93997,-0.81326 -4.4767,0.9487 -8.79766,-4.52676 -12.94408,-8.59971 z"
+       id="path6753-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4b6b3a;fill-opacity:1;stroke:none"
+       d="m 277.55936,605.21922 c 0,0 -19.57514,7.51171 -21.94593,19.61895 -2.37078,12.10723 -7.50929,15.90368 -7.50929,15.90368 0,0 8.83591,-4.71834 14.34124,-5.36224 8.54644,-0.99958 15.58958,-7.73583 15.55749,-14.49505 -0.0304,-6.40964 -0.44351,-15.66534 -0.44351,-15.66534 z"
+       id="path6747-69"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4b6b3a;fill-opacity:1;stroke:none"
+       d="m 278.12492,605.16006 c 0,0 -6.47506,-15.3615 -19.13361,-21.78791 -12.92594,-6.56215 -19.26641,-3.55557 -19.26641,-3.55557 0,0 3.94567,2.29519 6.46204,9.62856 4.41329,12.8615 13.5633,14.03964 17.97858,13.97927 5.20219,-0.0711 13.9594,1.73565 13.9594,1.73565 z"
+       id="path6751-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4b6b3a;fill-opacity:1;stroke:none"
+       d="m 277.61432,605.00028 c 0,0 5.53194,-5.13702 9.1913,-4.59814 4.25729,0.008 5.99147,2.53229 10.09779,1.56578 0,0 -3.2917,1.84051 -6.52389,2.78787 -2.50064,0.73295 -7.24926,-2.30753 -12.7652,0.24449 z"
+       id="path6753-84"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4b6b3a;fill-opacity:1;stroke:none"
+       d="m 277.49457,604.91619 c 0,0 25.41934,0.88698 29.70507,11.97533 4.28573,11.08835 6.72794,13.12115 6.72794,13.12115 0,0 -18.39841,-0.845 -24.00291,-8.59003 -5.6045,-7.74502 -12.4301,-16.50645 -12.4301,-16.50645 z"
+       id="path6749-14"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4b6b3a;fill-opacity:1;stroke:none"
+       d="m 276.88434,585.30614 c 0,0 4.16612,8.07184 3.16873,11.7227 -0.99738,3.65086 -2.43416,5.77493 -2.403,6.77899 0.0312,1.00407 -0.03,1.14008 -0.03,1.14008 0,0 0.23892,-2.55909 -1.79789,-5.30176 -2.49404,-3.35834 -0.2396,-9.20841 1.06212,-14.34001 z"
+       id="path6753-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8dbbd;fill-opacity:1;stroke:none"
+       d="m 224.34006,585.69857 c 0,0 -19.87769,1.11887 -25.30364,10.04045 -5.42595,8.92159 -11.13574,10.64697 -11.13574,10.64697 0,0 9.33038,-1.54678 14.52487,-0.70904 8.06391,1.3005 16.30324,-2.26697 18.09607,-7.57841 1.70011,-5.03673 3.81844,-12.39997 3.81844,-12.39997 z"
+       id="path6747-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8dbbd;fill-opacity:1;stroke:none"
+       d="m 224.27154,585.62955 c 0,0 -1.5855,-10.17473 -9.39943,-16.34391 -7.97898,-6.29949 -13.13619,-5.77051 -13.13619,-5.77051 0,0 2.37727,2.09273 2.72111,6.83953 0.60304,8.32509 6.94364,10.76887 10.12887,11.58252 3.75289,0.95866 9.68564,3.69237 9.68564,3.69237 z"
+       id="path6751-30"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8dbbd;fill-opacity:1;stroke:none"
+       d="m 224.4492,585.54018 c 0,0 6.42999,-2.68127 9.6221,-1.36577 3.88042,1.04517 4.78166,3.44852 8.78722,3.69186 0,0 -3.49822,0.64116 -6.7014,0.59604 -2.47819,-0.0349 -5.98937,-3.57899 -11.70792,-2.92213 z"
+       id="path6753-27"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8dbbd;fill-opacity:1;stroke:none"
+       d="m 224.36266,585.44499 c 0,0 22.94362,6.8968 23.86316,16.64273 0.91952,9.74592 2.59886,11.93671 2.59886,11.93671 0,0 -16.55177,-5.15117 -19.5753,-12.59546 -3.02352,-7.44429 -6.88672,-15.98398 -6.88672,-15.98398 z"
+       id="path6749-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8dbbd;fill-opacity:1;stroke:none"
+       d="m 229.09243,569.90915 c 0,0 1.62361,7.34984 -0.27019,9.97118 -1.89379,2.62133 -3.77674,3.93749 -4.01898,4.73293 -0.24226,0.79544 -0.33467,0.88725 -0.33467,0.88725 0,0 0.90776,-1.9497 -0.21049,-4.5986 -1.36928,-3.24352 2.2638,-7.28381 4.83432,-10.99277 z"
+       id="path6753-8-70"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 256.21074,641.67827 c 0,0 -16.36244,21.05598 -11.5822,33.32998 4.78026,12.274 1.58693,19.38571 1.58693,19.38571 0,0 6.584,-10.65727 12.0727,-15.30365 8.52064,-7.21302 11.97208,-18.29167 7.85607,-24.13756 -3.90316,-5.54351 -9.9335,-13.27448 -9.9335,-13.27448 z"
+       id="path6747-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 256.07614,641.69565 c 0,0 -12.32014,-6.09509 -25.84484,-2.82404 -13.81037,3.34014 -17.79941,8.98385 -17.79941,8.98385 0,0 4.34633,-0.83166 9.74428,2.41429 9.46709,5.69285 17.69201,1.09782 21.37954,-1.5241 4.34475,-3.08916 12.52043,-7.05 12.52043,-7.05 z"
+       id="path6751-00"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 256.13721,641.44734 c 0,0 2.80381,-8.56795 7.036,-10.81674 4.55028,-3.15328 7.92577,-2.24911 11.72606,-6.137 0,0 -2.40281,4.04208 -5.28143,7.26439 -2.2271,2.49299 -9.13287,3.37808 -13.48063,9.68935 z"
+       id="path6753-86"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 255.95859,641.46322 c 0,0 27.67358,-18.10136 38.94511,-11.65404 11.27153,6.44734 15.10643,6.39949 15.10643,6.39949 0,0 -20.15263,12.92539 -30.81312,10.36047 -10.66049,-2.56491 -23.23842,-5.10592 -23.23842,-5.10592 z"
+       id="path6749-45"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#689450;fill-opacity:1;stroke:none"
+       d="m 243.46497,624.88693 c 0,0 9.32222,3.9166 10.46207,7.82747 1.13987,3.91087 0.88864,6.82209 1.52824,7.67088 0.63959,0.84881 0.65645,1.01231 0.65645,1.01231 0,0 -1.2903,-2.39969 -5.12108,-3.26927 -4.6907,-1.06477 -5.81657,-7.81868 -7.52572,-13.24137 z"
+       id="path6753-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#695441;fill-opacity:0.99607843;stroke:none"
+       id="rect6926"
+       width="132.00365"
+       height="181.82745"
+       x="927.44629"
+       y="733.22668"
+       ry="1.1364216"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ab9077;fill-opacity:0.99607843;stroke:none"
+       id="rect6928-6"
+       width="128.79445"
+       height="5.5558391"
+       x="926.81494"
+       y="855.04193"
+       ry="1.1364216"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ab9077;fill-opacity:0.99607843;stroke:none"
+       id="rect6928"
+       width="129.29953"
+       height="5.5558391"
+       x="927.1109"
+       y="791.14984"
+       ry="1.1364216"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#8e6a47;fill-opacity:0.99607843;stroke:none"
+       id="rect6924"
+       width="15.939902"
+       height="181.78571"
+       x="1051.2488"
+       y="733.25372"
+       ry="1.1364216"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7019-6"
+       transform="translate(0.01252995,64.126898)" />
+    <g
+       id="g7019-6-1"
+       transform="translate(30.304586,64.144688)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccsc"
+         inkscape:connector-curvature="0"
+         id="path6950-0-3-7"
+         d="m 982.25513,783.77182 27.14277,-0.0893 c -1.7461,-18.87555 -0.9588,-22.69338 -13.96547,-22.79989 -11.63581,-0.0953 -11.08257,3.84422 -13.1773,22.88919 z"
+         style="fill:#1f2ea7;fill-opacity:0.99607843;stroke:none" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="path6952-8-8-5"
+         d="m 982.25513,782.70937 c -0.3796,0.026 -0.096,8.23129 0.8009,8.22511 10.148,-0.0698 18.52937,0.0614 25.73947,0 0.9504,-0.008 0.553,-8.69505 0.5131,-8.3144 -0.058,0.55315 -27.05347,1.00174 -27.05347,0.0893 z"
+         style="fill:#e3e2de;fill-opacity:0.99607843;stroke:none" />
+    </g>
+    <rect
+       style="fill:#939393;fill-opacity:0.99607843;stroke:none"
+       id="rect6993-6-9-4"
+       width="22.92495"
+       height="0.37880722"
+       x="1014.7517"
+       y="831.58173"
+       ry="0.18940361"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7019-6-1-8"
+       transform="translate(30.190634,0.19967118)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccsc"
+         inkscape:connector-curvature="0"
+         id="path6950-0-3-7-8"
+         d="m 982.25513,783.77182 27.14277,-0.0893 c -1.7461,-18.87555 -0.9588,-22.69338 -13.96547,-22.79989 -11.63581,-0.0953 -11.08257,3.84422 -13.1773,22.88919 z"
+         style="fill:#616161;fill-opacity:0.99607843;stroke:none" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="path6952-8-8-5-4"
+         d="m 982.25513,782.70937 c -0.3796,0.026 -0.096,8.23129 0.8009,8.22511 10.148,-0.0698 18.52937,0.0614 25.73947,0 0.9504,-0.008 0.553,-8.69505 0.5131,-8.3144 -0.058,0.55315 -27.05347,1.00174 -27.05347,0.0893 z"
+         style="fill:#aea46b;fill-opacity:0.99607843;stroke:none" />
+    </g>
+    <rect
+       style="fill:#939393;fill-opacity:0.99607843;stroke:none"
+       id="rect6993-6-9-4-1"
+       width="22.980968"
+       height="0.63134533"
+       x="1014.5792"
+       y="767.63666"
+       ry="0.31567267"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7019-6-1-8-1"
+       transform="translate(2.0992826,0.19474304)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccsc"
+         inkscape:connector-curvature="0"
+         id="path6950-0-3-7-8-7"
+         d="m 982.25513,783.77182 27.14277,-0.0893 c -1.7461,-18.87555 -0.9588,-22.69338 -13.96547,-22.79989 -11.63581,-0.0953 -11.08257,3.84422 -13.1773,22.88919 z"
+         style="fill:#616161;fill-opacity:0.99607843;stroke:none" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="path6952-8-8-5-4-0"
+         d="m 982.25513,782.70937 c -0.3796,0.026 -0.096,8.23129 0.8009,8.22511 10.148,-0.0698 18.52937,0.0614 25.73947,0 0.9504,-0.008 0.553,-8.69505 0.5131,-8.3144 -0.058,0.55315 -27.05347,1.00174 -27.05347,0.0893 z"
+         style="fill:#aea46b;fill-opacity:0.99607843;stroke:none" />
+    </g>
+    <rect
+       style="fill:#939393;fill-opacity:0.99607843;stroke:none"
+       id="rect6993-6-9-4-1-2"
+       width="22.210665"
+       height="0.50507629"
+       x="986.99292"
+       y="767.50549"
+       ry="0.25253814"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7019-6-1-5"
+       transform="translate(2.4564255,64.123314)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccsc"
+         inkscape:connector-curvature="0"
+         id="path6950-0-3-7-6"
+         d="m 982.25513,783.77182 27.14277,-0.0893 c -1.7461,-18.87555 -0.9588,-22.69338 -13.96547,-22.79989 -11.63581,-0.0953 -11.08257,3.84422 -13.1773,22.88919 z"
+         style="fill:#1f2ea7;fill-opacity:0.99607843;stroke:none" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="path6952-8-8-5-8"
+         d="m 982.25513,782.70937 c -0.3796,0.026 -0.096,8.23129 0.8009,8.22511 10.148,-0.0698 18.52937,0.0614 25.73947,0 0.9504,-0.008 0.553,-8.69505 0.5131,-8.3144 -0.058,0.55315 -27.05347,1.00174 -27.05347,0.0893 z"
+         style="fill:#e3e2de;fill-opacity:0.99607843;stroke:none" />
+    </g>
+    <rect
+       style="fill:#939393;fill-opacity:0.99607843;stroke:none"
+       id="rect6993-6-9-4-8"
+       width="22.92495"
+       height="0.37880722"
+       x="986.90356"
+       y="831.5603"
+       ry="0.18940361"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffef7c;fill-opacity:0.99607843;stroke:none"
+       id="path7246"
+       sodipodi:cx="636.64862"
+       sodipodi:cy="87.342484"
+       sodipodi:rx="12.374369"
+       sodipodi:ry="12.121831"
+       d="m 649.02299,87.342484 a 12.374369,12.121831 0 1 1 -24.74874,0 12.374369,12.121831 0 1 1 24.74874,0 z"
+       transform="matrix(1.3174765,0,0,1.3174765,-204.37352,309.9845)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7242"
+       style="fill:#fbfafa;fill-opacity:0.99607843;stroke:#fbfafa;stroke-opacity:0.99607843"
+       transform="translate(0,-11.111678)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="362.81299"
+         x="632.14288"
+         height="43.833622"
+         width="5"
+         id="rect7238"
+         style="fill:#fbfafa;fill-opacity:0.99607843;stroke:#fbfafa;stroke-width:0.82119632;stroke-opacity:0.99607843" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7240"
+         d="m 634.88087,405.86328 -61.243,27.77919 122.486,0 z"
+         style="fill:#fbfafa;fill-opacity:0.99607843;stroke:#fbfafa;stroke-width:1.61605847;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.99607843;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#fff297;fill-opacity:0.2511848;stroke:none"
+       id="path7248"
+       sodipodi:cx="538.41132"
+       sodipodi:cy="52.492222"
+       sodipodi:rx="78.791901"
+       sodipodi:ry="78.791901"
+       d="m 617.20322,52.492222 a 78.791901,78.791901 0 1 1 -157.5838,0 78.791901,78.791901 0 1 1 157.5838,0 z"
+       transform="matrix(0.82255137,0,0,0.80955843,191.99209,388.28063)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#fff297;fill-opacity:0.09952608;stroke:none"
+       d="m 561.83929,352.35644 c -21.25884,19.27755 -34.59375,46.90082 -34.59375,77.59375 0,58.26234 47.99009,105.5 107.1875,105.5 59.19741,0 107.1875,-47.23766 107.1875,-105.5 0,-30.69293 -13.30366,-58.3162 -34.5625,-77.59375 l -145.21875,0 z"
+       id="path7248-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#7f899e;fill-opacity:1;stroke:none"
+       id="rect7286"
+       width="73.571426"
+       height="5.3621731"
+       x="600.77557"
+       y="893.96545"
+       ry="1.8100159"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime33.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#7f899e;fill-opacity:1;stroke:none"
+       id="rect7286-2"
+       width="73.571426"
+       height="6.0764589"
+       x="601.13269"
+       y="905.80481"
+       ry="2.051125"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime33.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#7f899e;fill-opacity:1;stroke:none"
+       id="rect7278"
+       width="135.24313"
+       height="75.887238"
+       x="570.23108"
+       y="840.22888"
+       ry="20.124367"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime33.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#b7b77c;fill-opacity:1;stroke:none"
+       id="rect7280"
+       width="12.500001"
+       height="6.9740429"
+       x="632.14282"
+       y="916.94934"
+       ry="0.87175542"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime33.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#7f899e;fill-opacity:1;stroke:none"
+       id="rect7278-9"
+       width="135.24313"
+       height="25.497643"
+       x="570.28979"
+       y="839.91718"
+       ry="0"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_anime33.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#f2f1f1;fill-opacity:1;stroke:none"
+       id="rect7324"
+       width="47.214302"
+       height="27.349749"
+       x="940.90698"
+       y="507.1134"
+       ry="2.1477189"
+       transform="matrix(0.8969739,0.4420835,-0.4420835,0.8969739,0,0)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#a6a6a6;stroke-width:1.25885463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 661.36229,892.43769 -29.32394,5.29157 -12.58671,-25.7375"
+       id="path7332"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#de0000;fill-opacity:1;stroke:none"
+       id="path7330"
+       sodipodi:cx="618"
+       sodipodi:cy="528.5"
+       sodipodi:rx="2.25"
+       sodipodi:ry="2.25"
+       d="m 620.25,528.5 a 2.25,2.25 0 1 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z"
+       transform="matrix(0.69458302,0.34233291,-0.34233291,0.69458302,383.87899,318.98901)"
+       inkscape:export-filename="C:\Users\nakayama.akito\workspace_jv11\2014HEW\images\entrance_07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>

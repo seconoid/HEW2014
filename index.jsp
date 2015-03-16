@@ -23,27 +23,68 @@
 	<div id="wrapper">
 
 		<!-- header -->
-		<div id="header">
-			<p id="men" class="colorChange">Men</p>
-			<p id="women" class="colorChange">Women</p>
-			<p id="default" class="colorChange">Default</p>
-		</div>
 		<div id="contents">
 			<!-- scrollButton -->
-			<img src="./images/button.png" alt="scrollButton" width="80" height="80" id="scrollButton">
+			<a href="#" class="scrollNext">
+				<img src="./images/button.png" alt="scrollButton" width="80" height="80" id="scrollButton">
+			</a>
 
+			<!-- achieve box -->
+			<div id="achieve">
+				<img src="./images/achieve.png" alt="star" width="30" height="30">
+				<p id="achieveText">hoge</p>
+			</div>
 
 			<!--**** outside ****-->
 			<div id="outside" class="content">
-				<div class="items">
 
+				<!-- logo -->
+				<img src="./images/logo.png" alt="logo" id="logo">
+				<div class="items">
 					<!-- item images -->
+					<!-- house -->
 					<img src="./images/outside_01.png" alt="house" id="outside01">
+					<!-- cloud -->
 					<img src="./images/outside_02.png" alt="cloud" id="outside02" class="cloud">
 					<img src="./images/outside_02.png" alt="cloud" id="outside03" class="cloud">
-					<img src="./images/outside_04.png" alt="door" id="outside04" class="cloud">
 
-					<a href="#kitchen" class="scrollNext">キッチンへ</a>
+					<!-- door -->
+					<img src="./images/outside_04.png" alt="door" id="outside04">
+
+					<!-- trees -->
+					<img src="./images/outside_05.png" alt="door" id="outside05">
+
+					<!-- sun -->
+					<img src="./images/outside_06.png" alt="sun" id="outside06">
+
+					<!-- text --><img src="./images/outside_07.png" alt="text" id="outside07">
+
+					<!-- bord -->
+					<a href="./ranking.jsp">
+						<img src="./images/outside_08.png" alt="text" id="outside08">
+					</a>
+
+					<!-- bordText -->
+					<img src="./images/outside_09.png" alt="text" id="outside09">
+
+					<!-- animation -->
+
+					<!-- sun -->
+					<img src="./images/outside_anime01.png" alt="sunshine" id="outside_anime01">
+					<img src="./images/outside_anime02.png" alt="sunshine" id="outside_anime02">
+					<img src="./images/outside_anime03.png" alt="sunshine" id="outside_anime03">
+
+					<!-- enter -->
+					<img src="./images/outside_anime11.png" alt="sunshine" id="outside_anime11">
+					<a href="#kitchen">
+						<img src="./images/outside_anime12.png" alt="sunshine" id="outside_anime12" class="scrollNext">
+					</a>
+
+					<!-- twitter -->
+					<img src="./images/outside_anime21.png" alt="sunshine" id="outside_anime21">
+					<img src="./images/outside_anime22.png" alt="sunshine" id="outside_anime22">
+					<img src="./images/outside_anime23.png" alt="sunshine" id="outside_anime23">
+
 				</div>
 			</div>
 
@@ -53,13 +94,13 @@
 				<div class="items">
 					<!-- item images -->
 					<img src="./images/kitchen_01.png" alt="sink" id="kitchen01">
-					<img src="./images/kitchen_02.png" alt="fridge" id="kitchen02">
+					<a href="#kitchen">
+						<img src="./images/kitchen_02.png" alt="fridge" id="kitchen02">
+					</a>
 					<img src="./images/kitchen_03.png" alt="shelf" id="kitchen03">
 					<img src="./images/kitchen_04.png" alt="conro" id="kitchen04">
-					<img src="./images/kitchen_05.png" alt="fire" id="kitchen05">
-					<a href="#kitchen">
-						<img src="./images/kitchen_06.png" alt="fire" id="kitchen06_1">
-					</a>
+					<img src="./images/kitchen_05.png" alt="fire" id="kitchen05">			
+					<img src="./images/kitchen_06.png" alt="fire" id="kitchen06_1">
 					<a href="#kitchen">
 						<img src="./images/kitchen_06.png" alt="fire" id="kitchen06_2">
 					</a>
@@ -82,15 +123,25 @@
 					<img src="./images/kitchen_15.png" alt="fire" id="kitchen15">
 
 					<!-- animation images -->
+
+					<!-- fire -->
 					<img src="./images/kitchen_anime01.png" alt="fireanime" id="kitchen_anime01">
+
+					<!-- conro -->
 					<img src="./images/kitchen_anime11.png" alt="fire" id="kitchen_anime11">
 					<img src="./images/kitchen_anime12.png" alt="fire" id="kitchen_anime12">
 					<img src="./images/kitchen_anime12.png" alt="fire" id="kitchen_anime13">
+
+					<!-- venting -->
 					<img src="./images/kitchen_anime21.png" alt="fire" id="kitchen_anime21">
 					<img src="./images/kitchen_anime22.png" alt="fire" id="kitchen_anime22">
 					<img src="./images/kitchen_anime23.png" alt="fire" id="kitchen_anime23">
 					<img src="./images/kitchen_anime24.png" alt="fire" id="kitchen_anime24">
+
+					<!-- water -->
 					<img src="./images/kitchen_anime31.png" alt="fire" id="kitchen_anime31">
+
+					<!-- syokki wash -->
 					<img src="./images/kitchen_anime41.png" alt="fire" id="kitchen_anime41">
 					<img src="./images/kitchen_anime42.png" alt="fire" id="kitchen_anime42">
 					<img src="./images/kitchen_anime43.png" alt="fire" id="kitchen_anime43">
@@ -99,6 +150,8 @@
 					<!-- bottum shelf -->
 					<img src="./images/kitchen_anime51.png" alt="fire" id="kitchen_anime51">
 					<img src="./images/kitchen_anime52.png" alt="fire" id="kitchen_anime52">
+					<img src="./images/kitchen_anime53.png" alt="fire" id="kitchen_anime53">
+					<img src="./images/kitchen_anime54.png" alt="fire" id="kitchen_anime54">
 
 					<!-- fridge -->
 					<img src="./images/kitchen_anime61.png" alt="fire" id="kitchen_anime61">
@@ -109,6 +162,7 @@
 					<img src="./images/kitchen_flagConro.png" alt="fire" id="conroFlag">
 					<a href="#kitchen">
 						<img src="./images/kitchen_flagJaguchi.png" alt="fire" id="jaguchiFlag">
+					</a>
 					<img src="./images/kitchen_flagSponge.png" alt="fire" id="spongeFlag">
 					<a href="#kitchen">
 						<img src="./images/kitchen_flagWashing.png" alt="fire" id="washingFlag">
@@ -116,9 +170,6 @@
 
 					<!-- effect -->
 					<img src="./images/effect01.png" alt="window" id="washed_effect" class="effect">
-
-					<a href="#bathroom" class="scrollNext">風呂場へ</a><br /><br />
-					<a href="./questionnaire.jsp" class="openwin">(^-^)v</a>
 				</div>
 			</div>
 
@@ -128,28 +179,55 @@
 				<div class="items">
 
 					<!-- item images -->
+
+					<!-- bath -->
 					<img src="./images/bathroom_01.png" alt="bath" id="bathroom01">
+
+					<!-- chair -->
 					<img src="./images/bathroom_02.png" alt="bath" id="bathroom02">
+
+					<!-- lack -->
 					<img src="./images/bathroom_03.png" alt="bath" id="bathroom03">
+
+					<!-- light -->
 					<img src="./images/bathroom_04.png" alt="bath" id="bathroom04">
+
+					<!-- faucet -->
 					<img src="./images/bathroom_05.png" alt="bath" id="bathroom05">
-					<img src="./images/bathroom_06.png" alt="bath" id="bathroom06">
+
+					<!-- dispacher -->
+					<a href="#bathroom">
+						<img src="./images/bathroom_06.png" alt="bath" id="bathroom06">
+					</a>
+
+					<!-- mirror -->
 					<img src="./images/bathroom_07.png" alt="bath" id="bathroom07">
+
+					<!-- washstand -->
 					<img src="./images/bathroom_08.png" alt="bath" id="bathroom08">
+
+					<!-- shower -->
 					<img src="./images/bathroom_09.png" alt="bath" id="bathroom09">
 					
 					<!-- animation images -->
+
+					<!-- shower -->
 					<img src="./images/bathroom_anime01.png" alt="bath" id="bathroom_anime01">
 					<img src="./images/bathroom_anime02.png" alt="bath" id="bathroom_anime02">
 					<img src="./images/bathroom_anime03.png" alt="bath" id="bathroom_anime03">
 					<img src="./images/bathroom_anime04.png" alt="bath" id="bathroom_anime04">
+					
+					<!-- column -->
+					<img src="./images/bathroom_anime11.png" alt="bath" id="bathroom_anime11">
+					<img src="./images/bathroom_anime12.png" alt="bath" id="bathroom_anime12">
+
+					<!-- steem -->
+					<img src="./images/bathroom_anime21.png" alt="bath" id="bathroom_anime21">
 
 					<!-- showerStop -->
 					<a href="#bathroom" onClick="showerStop()">
 						<img src="./images/bathroom_flagShower.png" alt="bath" id="showerFlag">
 					</a>
-
-					<a href="#living" class="scrollNext">リビングへ</a>
 				</div>
 			</div>
 
@@ -166,6 +244,7 @@
 					<img src="./images/living_05.png" alt="window" id="living05">
 					<img src="./images/living_06.png" alt="window" id="living06">
 					<img src="./images/living_07.png" alt="window" id="living07">
+					<img src="./images/living_08.png" alt="window" id="living08">
 
 					<!-- animation images -->
 
@@ -174,12 +253,11 @@
 					<img src="./images/living_anime02.png" alt="window" id="living_anime02">
 					<img src="./images/living_anime03.png" alt="window" id="living_anime03">
 					<img src="./images/living_anime04.png" alt="window" id="living_anime04">
-
-					<!-- getClothes -->
 					<a href="#living" onClick="getClothes()">
-						<img src="./images/living_flagClothes.png" alt="bath" id="clothesFlag">
+						<img src="./images/living_anime05.png" alt="window" id="living_anime05">
 					</a>
 
+					<!-- getClothes -->
 
 					<!-- books -->
 					<img src="./images/living_anime11.png" alt="window" id="living_anime11">
@@ -193,8 +271,6 @@
 
 					<!-- effect -->
 					<img src="./images/effect01.png" alt="window" id="books_effect" class="effect">
-
-					<a href="#entrance"class="scrollNext">玄関へ</a>
 				</div>
 			</div>
 
@@ -203,17 +279,49 @@
 			<div id="entrance" class="content">
 				<div class="items">
 					<!-- item images -->
-					<a href="#bye"  class="scrollNext">外へ</a>
+					<img src="./images/entrance_01.png" alt="door" id="entrance01">
+					<img src="./images/entrance_02.png" alt="door" id="entrance02">
+					<img src="./images/entrance_03.png" alt="door" id="entrance03">
+					<img src="./images/entrance_04.png" alt="door" id="entrance04">
+					<img src="./images/entrance_05.png" alt="door" id="entrance05">
+					<img src="./images/entrance_06.png" alt="door" id="entrance06">
+
+					<!-- hitori gurashi check -->
+					<a href="./result.jsp?score=0" class="openwin" id="letter" onclick="scoreUpdate();">
+						<img src="./images/entrance_07.png" alt="door" id="entrance07">
+					</a>
+
+					<!-- animation images -->
+					<!-- leaves -->
+					<img src="./images/entrance_anime01.png" alt="door" id="entrance_anime01">
+
+					<!-- boots -->
+					<img src="./images/entrance_anime11.png" alt="door" id="entrance_anime11">
+					<img src="./images/entrance_anime12.png" alt="door" id="entrance_anime12">
+
+					<!-- light -->
+					<img src="./images/entrance_anime21.png" alt="door" id="entrance_anime21">
+					<img src="./images/entrance_anime22.png" alt="door" id="entrance_anime22">
+
+					<!-- post -->
+					<img src="./images/entrance_anime31.png" alt="door" id="entrance_anime31">
+					<img src="./images/entrance_anime32.png" alt="door" id="entrance_anime32">
+					<a href="#entrance">
+						<img src="./images/entrance_anime33.png" alt="door" id="entrance_anime33">
+					</a>
 				</div>
 			</div>
 
 			<!-- last -->
 			<div id="bye" class="content">
 				<div class="items">
-					<a href="#header" class="scrollTop">ありがとう！</a>
+					<img src="./images/bye_thanks.png" alt="door" id="bye_thanks">
+					<img src="./images/bye_copyright.png" alt="door" id="bye_copyright">
+					<a href="#header">
+						<img src="./images/bye_restart.png" alt="door" id="bye_restart" class="scrollTop">
+					</a>
 				</div>
 			</div>
-
 		</div>
 	</div>
 </body>

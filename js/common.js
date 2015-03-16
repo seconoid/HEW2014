@@ -1,8 +1,7 @@
 // パララックススクロール
 $(function() {
 	var PosTop = 700;
-    var kitchenPosTop = $('#kitchen').offset().top;
-    var bathroomPosTop = $('#bathroom').offset().top;
+
     $(window).scroll(function() {
         var value = $(this).scrollTop(); //スクロール値を取得
         $('#scrollValue').text(value);
@@ -42,16 +41,37 @@ $(function() {
 
 // ページ内スクロール
 $(function() {
+	var pos = 700;
+	var value = 0;
+	var i = 1;
+	var p = 0;
+
 	$('.scrollNext').click(function () {
-		var i = $('.scrollNext').index(this) + 1;
-		var p = $('.content').eq(i).offset().top;
-		$('html, body').animate({ scrollTop: p }, 1410);
+		value = $(window).scrollTop();
+		if( value >= pos * 5 ){
+			i = 0;
+		}else if ( value >= pos * 4 ){
+			i = 5;
+		}else if ( value >= pos * 3 ){
+			i = 4;
+		}else if ( value >= pos * 2 ){
+			i = 3;
+		}else if ( value >= pos ){
+			i = 2;
+		}else{
+			i = 1;
+		}
+		p = $('.content').eq(i).offset().top;
+		$('html, body').animate({ scrollTop: p }, 1100, 'swing');
 		return false;
 	});
 
 	// トップへスクロール
 	$('.scrollTop').click(function () {
 		$('html, body').animate({ scrollTop: 0}, 2000);
+		setTimeout(function(){
+			$('#scrollButton').fadeIn(700);
+		},2000);
 		return false;
 	});
 	
@@ -62,7 +82,7 @@ $(document).ready(function() {
     $('a.openwin').openwin({
     	option : {
     		width: 500,
-    		height: 300,
+    		height: 500,
        	}
     });
 });
@@ -79,3 +99,18 @@ $(function() {
 		$('body').stop().animate({ backgroundColor: '#f3f2f7'}, 800);
 	});
 });
+
+// ボタンのフェードイン・フェードアウト
+$(function() {
+	$('#scrollButton').click(function() {
+		var pos = 700;
+		var value = $(window).scrollTop();
+    	$(this).fadeOut(600);
+		if( value >= pos * 4){
+			return;
+		}
+		setTimeout(function(){
+			$('#scrollButton').fadeIn(1000);
+		},600);
+	});
+})

@@ -5,7 +5,7 @@
     <reloadable>true</reloadable>
     <redirectLogger>false</redirectLogger>
     <updateXml>true</updateXml>
-    <warLocation></warLocation>
+    <warLocation>C:\Users\nakayama.akito\jv11_hew_JV11SB01_NakayamaAkito.war</warLocation>
     <extraInfo></extraInfo>
     <webPath>/2014HEW</webPath>
 </tomcatProjectProperties>
